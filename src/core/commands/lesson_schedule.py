@@ -1,4 +1,3 @@
-from datetime import datetime, timedelta
 import httpx
 import os
 from dotenv import load_dotenv
@@ -32,7 +31,6 @@ class LessonSchedule:
             "https://api.github.com/repos/mdonmez/study-agent/contents/data/schedules"
         )
 
-        # Create a temporary instance to get headers
         temp_instance = cls()
         headers = temp_instance._get_api_headers()
 
@@ -40,16 +38,15 @@ class LessonSchedule:
         response.raise_for_status()
         data = response.json()
 
-        # Extract JSON filenames and remove .json extension
         classes = []
         for item in data:
             if item["type"] == "file" and item["name"].endswith(".json"):
-                class_name = item["name"][:-5]  # Remove .json extension
+                class_name = item["name"][:-5]
                 classes.append(class_name)
 
         return sorted(classes)
 
-    def _fetch_schedule_data(self, class_id: str) -> dict[str, list[str]]:
+    def get_schedule(self, class_id: str) -> dict[str, list[str]]:
         """Fetch schedule data from GitHub for a specific class."""
         url = f"{self.base_url}/{class_id}.json"
         headers = self._get_api_headers()
@@ -61,34 +58,13 @@ class LessonSchedule:
         except Exception as e:
             raise IOError(f"Error fetching schedule data for {class_id}: {e}")
 
-    def get_schedule(self, class_id: str, date: datetime) -> list[str]:
-        """Get schedule for the specified class and date."""
-        full_schedule = self._fetch_schedule_data(class_id)
-        day = self._day_key(date)
-        return [] if day in {"saturday", "sunday"} else full_schedule.get(day, [])
-
-    def _day_key(self, date: datetime) -> str:
-        return [
-            "monday",
-            "tuesday",
-            "wednesday",
-            "thursday",
-            "friday",
-            "saturday",
-            "sunday",
-        ][date.weekday()]
-
 
 if __name__ == "__main__":
     manager = LessonSchedule()
 
-    today = datetime.now()
-    tomorrow = today + timedelta(days=1)
-
     try:
-        print(f"10A Today's schedule: {manager.get_schedule('10A', today)}")
-        print(f"10A Tomorrow's schedule: {manager.get_schedule('10A', tomorrow)}")
-        print(f"10B Today's schedule: {manager.get_schedule('10B', today)}")
+        print(f"10A schedule: {manager.get_schedule('10A')}")
+        print(f"10B schedule: {manager.get_schedule('10B')}")
 
     except Exception as e:
         print(f"Error: {e}")
