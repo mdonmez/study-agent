@@ -1,0 +1,17 @@
+## 10. Sınıf Biyoloji Ders Kitabı Cevapları Meb Yayınları Sayfa 158
+
+**Ekolojik Ayak İzinin Küçültülmesi**
+
+İnsanların günlük yaşantıları sırasında tükettiği doğal kaynakların yeniden üretilmesi ve oluşan atıkların geri dönüştürülmesi için belli bir miktar verimli toprak ve suya ihtiyaç vardır. İnsanların üretim ve tüketim faaliyetleri sonucu kullandığı enerjinin, kaynakların ve ham maddenin yeniden üretilmesi ve oluşturulan atıkların etkisiz hâle getirilmesi için gerekli olan toprak ve su alanı miktarının ölçülmesine ekolojik ayak izi denir.  
+ Ekolojik ayak izi ifadesi, doğal kaynak kullanımının sürdürülebilir bir biçimde gerçekleştirilebilmesi için kullanılan matematiksel bir hesaplama yönteminin adıdır. Bu yöntem sayesinde harcanan verimli ekolojik kaynak miktarı sayısal olarak ifade edilebilmekte, harcanan kaynakların yeniden üretilmesi için gereken verimli toprak ve su miktarı da belirlenebilmektedir.  
+ Dünyanın tüketilen doğal kaynakları tolere edebilmek ve yeniden üretebilmek için sahip olduğu verimli kaynaklar biyokapasite olarak ifade edilmektedir. Ekolojik ayak izi ile biyokapasite arasındaki fark ekolojik açıklık olarak tanımlanır. Bu açığın fazla olması diğer bir ifade ile sınırlı kaynakların bilinçsizce tüketilmesi, sürdürülebilir olmayan çevre politikalarının bir ürünüdür. Tüm bunların sonucunda ekolojik dengenin bozulması kaçınılmaz olmaktadır.  
+ Ülkemizdeki ekolojik ayak izi etkenlerinin en büyüğü %82’lik bir oranla kişisel tüketimdir. Kişisel tüketimin neden olduğu ekolojik ayak izinin temel kaynağı ise ağırlıklı olarak gıdadır. Ekolojik ayak izinin geri kalan etmenleri; kişisel ürünler, kişisel ulaşım ile hizmet ve konut harcamalarından kaynaklanmaktadır.  
+ Ekolojik ayak izini azaltma yolları konusunda karbon salınımı yüksek olan kurumlara ve bireylere birtakım sorumluluklar düşmektedir. Bu sorumluluklar doğrultusunda kurumların karbon salınımlarını azaltma yönünde önlemler alması gerekmektedir. Hatta bu önlemler bireysel çabalardan daha fazla olumlu sonuç oluşturur. Ekolojik ayak izi konusunda toplumun bilinçlenmesini sağlamak da gerekir. Böylece bireylerin yaşam tarzlarında değişikliğe gitmeleri ve tüketim tercihlerini tekrar gözden geçirmeleri mümkün olabilir.  
+ Ekolojik ayak izinin küçültülmesi, insan faaliyetlerinin çevresel etkilerini azaltmak için atılacak adımların bütünüdür. Doğal kaynakların daha verimli kullanılması, atıkların azaltılması, enerji tasarrufunun sağlanması ve sürdürülebilir yaşam biçimlerinin benimsenmesi ekolojik ayak izinin küçültülmesinde önemli adımlardır.  
+ Ekolojik ayak izini küçültmek için şu adımlar atılabilir:  
+ • Yenilenebilir enerji kaynaklarına (güneş, rüzgâr, dalga) yönelerek, enerji tasarrufu sağlayan cihazların kullanımını artırarak, fosil yakıtların tüketimini azaltarak enerji verimliliği sağlanabilir.  
+ • Atıkları azaltmak, geri dönüştürmek ve yeniden kullanmak (ikinci el eşya kullanımı ya da takas yapmak gibi) doğal kaynakların tüketimini azaltır. Aynı zamanda atıkların çevreye verdiği zararları da en aza indirir. Gereksiz tüketime son vererek üretim süreçlerinin çevreye olan yükü azaltılabilir. Ayrıca organik atıkların (yiyecek atıkları; ağaç,
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Biyoloji Ders Kitabı Sayfa 158**

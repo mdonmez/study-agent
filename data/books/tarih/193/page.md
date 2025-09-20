@@ -1,0 +1,10 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 193
+
+Hacı Bayram Veli, yaşadığı çevrede sevilen ve sohbeti dinlenen bir din âlimidir. Dönemin padişahı Sultan İl. Murad ise o yıllarda çıkan Şeyh Bedreddin İsyanı (1420) nedeniyle tasavvuf zümrelerine karşı mesafeli durmaktadır. Merkeze uzak bir yer olan Ankara’da Hacı Bayram Veli adlı bir şahsın yaşadığını ve bu kişinin etrafında çok sayıda dervişin toplandığını haber alan İl. Murad; şahsiyetini, mesleğini, amacını ve fikirlerini öğrenmek için onu saraya çağırır. Görüşme öncesinde Amasya sancak beyi tarafından sultana şöyle bir rapor verilir: “Devletlim! Ankara ve çevresi Hacı Bayram’ın adamlarıyla dolmuştur.  
+ Bunlar binlerle sayılmayacak kadar çoktur. Bunlar Türkmen’dir, Hacı Bayram’a ait tarlalarda çalışır ve üründen elde edilen gelirleri aralarında bölüşür. İmarete benzeyen tekkelerde kalırlar. Ancak herkes merak içinde ‘Bunca baiık niçindir?’ demektedir.”  
+ Hacı Bayram Veli’yle görüşüp sohbet eden Sultan İl. Murad’ın bütün şüpheleri ortadan kalkmış ve ondan Eski Cami’de vaaz vermesini istemiştir. Vaazın ardından yeniden Ankara’ya dönen Hacı Bayram Veli, buradaki ilmî faaliyetlerine devam etmiştir. Sonraki yıllarda adına vakıflar, zaviyeler ve mahalleler kurulmuştur.  
+ Hacı Bayram Veli’nin dervişlerinin oluşturduğu tasavvuf koluna Bayra- miye adı verilir. Kaynaklarda onun Arapça ve Farsça bildiği, yüksek bir ilim ve irfana sahip olduğu belirtilir. En önemli dervişlerinden biri Fatih Sultan Mehmet’e hocalık da yapan Akşemseddin’dir. Hacı Bayram Veli, Yıldırım Bayezid Han’dan Sultan İl. Murad Han dönemine kadar Osmanlı topraklarındaki ilim ve irfan geleneğinin oluşumunda etkili olmuş bir şahsiyettir.
+
+**Soru: Hacı Bayram Veli’yle ilgili bilgilerden hareketle Osmanlı ilim ve irfan geleneğindeki ariflerin hangi özelliklere sahip olduğunu yazınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 193**

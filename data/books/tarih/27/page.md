@@ -1,0 +1,9 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 27
+
+Papa 111. Innocentius (Innoçentiyus), 1199’da Kudüs’ü Müslümanlardan geri almak amacıyla IV. Haçlı Seferi’ni (1202-1204) resmen başlattı. 24 Haziran 1203’te Konstantinopolis’e gelen Haçlılar (Harita 1.6), Doğu Roma Ortodoks Kilisesinden Katolik Roma Kilisesinin üstünlüğünü kabul etmesini talep ettiler. Ayrıca Doğu Ro- ma’nın kendilerine ödemeyi vadettiği paranın da hemen verilmesini istediler. Doğu Roma imparatorunun bu talepleri geri çevirmesi üzerine Haçlı ordusu üç gün boyunca İstanbul’u yağmaladı ve yakıp yıktı. Atlarıyla Ayasofya’ya giren Haçlılar, buradaki aziz tasvirlerini ve kutsal kitapları tahrip etti. Venedikliler de İstanbul’daki sanat eserlerinin birçoğunu toplayarak kendi ülkelerine götürdü. Bu yağma sırasında hipodromdan çalınan dört adet at heykeli, Venedik’teki San Marco(San Marko) Kilisesinin kapısı üzerine yerleştirildi.
+
+iV. Haçlı Seferi’nden ve Konstantiniye’ninyağmalanmasından sonra Doğu Roma toprakları Haçlılar ile Venedikliler arasında paylaşıldı ve Konstantinopolis’te Latin İmparatorluğu adıyla yeni bir devlet kuruldu(1204). Bu sırada Konstantiniye’den kaçan Doğu Roma yöneticileri ise Trabzon, Epiros(Epir) ve İznik’te yeni devletler kurdu. İznik Rum İmparatorluğu, 25 Temmuz 1261’de Konstantiniye’yi Haçlılardan geri aldı ve buradaki Latin hakimiyetine son verdi. Ancak Doğu Roma İmparatorluğu bir daha asla eski gücüne kavuşamadı. Bu dönemde Türkiye Selçuklu Devleti’nin sınırları Akdeniz ve Karadeniz kıyılarına kadar ulaştı. Selçuklular, açtıkları yeni ticaret yolları sayesinde dünya ticaretindeki nüfuzlarını da güçlendirdi.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 27**

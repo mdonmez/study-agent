@@ -1,0 +1,14 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 45
+
+Türkler, ordu-millet olma özelliğini İslamiyet’in kabulünden sonra da devam ettirdi. Türk-İslam devletlerinde ordular, ilk kez Asya Hun Hükümdarı Mete Han (MÖ 209-174)tarafından oluşturulan onlu sisteme göre yönetildi ve sefer esnasında bu ordulara hükümdarlar kumandanlık etti. Başta Karahanlı, Gazneli ve Selçuklu olmak üzere Türk-İslam devletlerindeki ordu teşkilatları büyük ölçüde Türklerden oluşturuldu. Bununla birlikte Karahanlılar dışındaki diğer Türk-İslam ordularında farklı etnik gruplara mensup askerler de görev yaptı.  
+ Yerli unsurların da görev yaptığı Gazneli ordusu, asi! gucunu sarayda gulam olarak yetiştirilmiş Türklerin oluşturduğu hassa ordusundan alıyordu. Gulamlar, liyakat ve kabiliyetlerine göre daimî ve maaşlı olarak hem sivil hem de askerî kadrolarda görevlendirilirdi. Sarayı ve hükümdarı koruyan ve saray hizmetlerini yürüten bu birlikler; Karahanlılar Dönemi’nde saray muhafızları (turgak ve yatgak), Gazneli ve Büyük Selçuklu dönemlerinde ise saray gulamları olarak adlandırıldı.
+
+“Müslüman hanedanlar arasında harplerde ilk defa büyük oranda fil kullanan devletin Gazneliler olduğu iddia edilir. Harp esnasında fillerin binek hayvanı olarak kullanımı yanında (…), Savaşta özellikle ilk sıraya yerleştirilerek düşman tarafın moralini bozmak için kale muhasaralarında tıpkı ağır silahlar gibi surları yıkmak için. Filler orduda önemli bir unsur olmakla beraber genellikle savaşlardaki temel unsurun at olduğu söylenebilir. Çünkü Gazneli ordusunun çoğunluğunu tek atlı süvari birlikleri oluşturmakta olup hareket kabiliyetleri sebebiyle atların savaşın kazanılmasında önemli rolü vardı. Gazne ordusunun teçhizat bakımından muasırlarına göre çok zengin ve gelişmiş olduğu söylenebilir.
+
+Büyük Selçuklu Devleti’nin kuruluş sürecinde Türkmen birlikleri önemli rol oynadı. Devletin yerleşik düzene geçip kurumsallaşmasıyla birlikte Türkmenlerin yerini gulam sisteminde yetiştirilen Türkler ve diğer kavim- lere mensup kişiler aldı. Türkmenler ise genellikle devletin sınır ve uc boylarında akıncı kuvvet olarak stratejik önemlerini korudular. Bu dönemde Büyük Selçuklu ordusunda yaya askerlerin yanı sıra süvari birlikleri de bulunuyordu ve bu süvariler ordunun çoğunluğunu ve asıl vurucu gücünü oluşturuyordu.  
+ Büyük Selçuklu Dönemi’nde İslam devlet geleneğinin önemli unsurlarından biri olan ikta sistemi geliştirilerek uygulanmaya başlandı. Bu sisteme göre ülke topraklarının tamamı devlete aitti. Ancak ikta sahipleri, savaşa hazır asker bulundurma ve yaşadıkları bölgenin güvenliğini sağlama koşuluyla kendilerine tahsis edilen toprakları işletebiliyordu. Bu sistem sayesinde devlet hem merkezî otoritesini güçlendirdi hem de savaşa sürekli hazır olan askerî bir güce sahip oldu.  
+ Selçuklu ordusunun en kalabalık bölümü ikta birlikleriydi.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 45**

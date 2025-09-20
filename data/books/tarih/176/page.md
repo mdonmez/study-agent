@@ -1,0 +1,10 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 176
+
+Osmanlı şehirlerinin temel yerleşim birimi, genellikle yüksekte konumlanan ve surlarla çevrilen kale içi adlı alanlardır. Osmanlılar, fethettikleri şehirleri kale içinin dışında kalan ve tahtakale (tahte’l-kal’a) adı verilen yerlere yeni iskân alanları kurarak genişletmiştir. Kale içinde bir caminin yanı sıra Osmanlı sarayı ve saray teşkilatının evleri bulunur. Bununla birlikte yeni iskân edilenlerin ve -şehir barışla fethedildiyse- gayrimüslim ahalinin evleri ve iş yerleri de kale içinde yer alır. Ancak burası sınırlı bir alan olduğu yeni gelenlerin bir kısmı kale dışına ve etrafına yerleştirilir. Kale kapılarının yakınlarına bir -şehir büyükse birden fazla- bedesten, bedestenin yakınına hanlar, hanların yakınına ise çarşılar yapılır. Şehir merkezleri zamanla kale içinden dışına, bu ticari alanlara kayar. Bu alanların yakınlarına bir ulu cami (cuma camisi) ile külliyeler ve imaretler inşa edilir (Görsel 2.26, 2.27). Külliyelerin çevresine ise Osmanlı ahalisinin yerleştiği mahalleler kurularak yarı açık veya  
+ tam açık planlı Osmanlı şehirleri oluşturulur
+
+Bursa ve Edirne(…}, fetih anında var olan bu şehirlerin Kaleiçi bölgeleri, fetihten sonra vergi vermeyi kabul eden gayrimüslim nüfusa bırakılmıştır. Bu bölgede sadece boş kalan mülkler Osmanlı ahalisine tahsis edilmiştir. Yeni gelen nüfus ise kale dışına örneğin Bursada Tahtakale olarak adlandırılacak mahalle yani şehrin kuzeyine doğru yerleşmeye başlamıştır. Bursa şehri bir taraftan bu genişlemeyi yapıp Orhan Gazi külliyesi ve daha sonra Ulucami ve çarşılarla şehir merkezini oluştururken diğer taraftan Hüdavendigar ve Muradiye külliyeleri ile Batı tarafına, Yıldırım Bayezid ve Çelebi Mehmet külliyeleri He Doğu yönüne doğru genişlemiştir.”
+
+**Soru: Fetihlerin ardından Osmanlı kimliği kazanan şehirler neden külliyelerin etrafında şekillenmiştir? Gerekçeleriyle açıklayınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 176**

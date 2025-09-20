@@ -1,0 +1,12 @@
+## 10. Sınıf Biyoloji Ders Kitabı Cevapları Meb Yayınları Sayfa 173
+
+Bu alanlarda oluşan metan gazı da patlama, heyelan, hava kirliliği vb. problemlere yol açmaktadır. Söz konusu atıkların çevreye ve insan sağlığına etkisini azaltmak ve yönetimini sağlamak üzere ortadan kaldırılması, yok edilmesi ve geri dönüştürülmesine bertaraf işlemi denir. Bertaraf işlemi; atıkların ayıklanarak tekrar kullanım, geri dönüşüm, geri kazanım gibi işlemlerden sonra kompostiaştırma, biyometanizasyon, yakma, düzenli depolama uygulamalarının tümü olarak tanımlanmaktadır.  
+ Kompostiaştırma, bertaraf işlemlerinden biri olup organik atıkların kontrollü şartlar altında humus veya humus benzeri stabil ürüne kadar biyolojik olarak ayrıştırılmasıdır. Oluşan ürüne kompost denir (Görsel 2.59).
+
+Kompost; tarımda, meyvecilikte, ormancılıkta ve zemin iyileştirmede kullanılır. Toprağa verilen kompost, burada mikroorganizmaların faaliyetini artırdığı için fiziksel, kimyasal ve biyolojik özellikleri iyileştirip bitkilerde verimin artmasını sağlar. Kompostiaştırma ile biyolojik olarak ayrışabilir organik maddelerin biyolojik olarak kararlı bir maddeye dönüştürülmesi ve atığın hacminin azaltılması sağlanır. Atık içinde bulunan hastalık yapıcı organizmalar genellikle kompost- laştırma işlemi sırasında yok edilir. Mevcut veya oluşabilecek koku problemi ortadan kaldırılır. Gübre olarak kullanılabilecek bir ürün elde edilir. Evlerde, bahçelerde basit bir kompost kovası seti ile organik atıklardan yararlanılabilir.  
+ Biyometanizasyon, organik artıkların oksijensiz ortamda parçalanarak biyo- gaza (metan ve karbondioksit) dönüştürülmesi işlemidir. Oluşan biyogazın işlenmesi ile elektrik ve ısı enerjisi üretilir. Atıklardan organik gübre elde edilir. Biyometanizasyon sürecinde, atıklarda bulunan hastalık yapıcı etkenler ve kötü kokular da giderilir. Aynı zamanda fosil yakıtların kullanımı azaltılarak sera gazları da azaltılmış olur. Biyogaz, ısıtmada enerji amacıyla; motorlu araçlarda yakıt olarak kullanılmaktadır.  
+ Yakma işlemi bir bertaraf yöntemi olarak kullanılır. Bu yöntemin temel amacı katı atıkların hacmini azaltmaktır. Bu atıkların yakılması ile oluşan termal enerji, buhar türbininden geçirilerek elektrik enerjisine dönüştürülmektedir. Bu süreçler çevreye zarar vermeden gerçekleştirilmelidir.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Biyoloji Ders Kitabı Sayfa 173**

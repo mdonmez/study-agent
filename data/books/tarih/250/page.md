@@ -1,0 +1,22 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 250
+
+Osmanlı merkez teşkilatındaki yenilikler taşra ve ordu yapılarının da değişmesine neden olmuştur. Osmanlı taşra teşkilatı, merkezden atanan askerî valiler ve sancak beylerinin idaresinde sancak kanunnameleriyle şekillenmiştir. Taşradaki askerîyöneticiler, kendilerine tahsis edilen dirlik gelirleri karşılığında bölgedeki idari ve askerî görevleri yerine getirmiş, yetiştirdikleri cebelülerle birlikte seferlere katılmıştır. XVI. yüzyıl sonunda mali dengelerin değişmesiyle birlikte Osmanlı taşra teşkilatında ve dirlik sisteminde yeni yol arayışlarına gidilmiş, bunun sonucunda da XVI. yüzyıldan itibaren dirlik yerine iltizam sistem/ uygulanmaya başlanmıştır.
+
+Merkeze bağlı eyalet yönetimine taşra teşkilatı adı verilir. Osmanlı Devleti’nde eyaletlere iki ayrı yönetici olarak askerî sınıftan gelen ve padişahın yürütme yetkisini temsil eden bey ile ilmiye sınıfından gelen ve padişahın yargı yetkisini temsil eden kadı atanmıştır. Fethedilen bölgelerde öncelikle bir sancak kanunnamesi yayımlanmıştır. Ardından tahrir kayıtları (sayım defterleri) tutularak bölgedeki araziler, vergi verecek insan sayısı ve vergi miktarı belirlenmiştir. Dirliklerin tespitinden ve yöneticilerin atanmasından sonra bölge merkezî yönetime bağlanmıştır.
+
+Osmanlı Devleti’nin en büyük mülki idare birimidir. Başlangıçta beylerbeyliği ismiyle anılan bu birimlere zamanla eyalet adı verilmiştir. Eyaletlerin başında askerî sınıftan gelen beylerbeyi adlı yöneticiler bulunur. Bu yöneticiler savaş zamanlarında kendi eyaletindeki kapı halkı ve tımarlı sipahilerle birlikte savaşa katılmak, bölgenin asayişini sağlamak ve adil bir yönetim sergilemekle görevlidir. Hizmetleri karşılığında dirlik geliri (has) alan beylerbeylerinin, yönettikleri eyaletler üzerinde mülkiyet hakları yoktur. Merkezî otoritenin korunması adına aynı eyalette uzun süre görev yapmazlar ve sık sık yerleri değiştirilir.
+
+Tımar sisteminin uygulandığı eyaletlerdir. Buralarda yapılan tahrirlerle eyaletin gelirleri has, zeamet ve tımar şeklinde dirliklere ayrılır. Devlet; tahrir yapma, tımarları teftiş etme gibi sebeplerle bu bölgeleri daha rahat kontrol altında tutar. Osmanlı Devleti’nde salyanesiz eyaletlerden bazıları şunlardır: Anadolu, Rumeli, Karaman, Diyarbakır, Erzurum, Dulkadir, Şam, Budin, Van, Temeşvar.
+
+Tahrir işlemi yapılmayan ve tımar sistemi uygulanmayan eyaletlerdir. Bu eyaletlerdeki yıllık gelirler, devlet görevlilerin maaşları ayrıldıktan sonra doğrudan hazineye aktarılır. Bu eyaletlerin asayişi ve güvenliği yeniçeri garnizonları, kadılar ve defterdarlar aracılığıyla sağlanır. Mısır, Bağdat, Şehrizor, Yemen, Habeş, Lahsa, Cezayir, Trablusgarp ve Tunus Osmanlı Devleti’nin salyaneli eyaletleridir.
+
+Özel ayrıcalıklar tanınan Eflak, Boğdan, Erdel, Mekke Şerifliği ve Kırım Hanlığı imtiyazlı eyaletler olarak sınıflandırılır. İç işlerinde özerklik tanınan Eflak, Boğdan ve Erdel voyvodalıkları, Osmanlı Devleti’nin atadığı yerel prensler tarafından yönetilmiştir. Giray ünvanıyla anılan Kırım hanlarını Dîvân-ı Hümâyun belirlemiştir.  
+ Mekke Şerifliği’nin ise Hz. Muhammed’in (sav) soyundan gelen ve şerif adı verilen kol tarafından yönetilmesine izin verilmiştir.
+
+Eyaletleri oluşturan alt idari birimlere sancak adı verilir. Sancakların yönetiminden sancak beyleri sorumludur. Sancak beyinin asli görevi; kendi kapı halkı, zaimleri, sipahileri ve cebelüleriyle birlikte Osmanlı ordusu sefere çıktığında onumla birlikte sefere katılmaktır. Ayrıca sancağın düzen ve asayişini sağlamak, tımarlı sipahilerle beraber suçluları tutuklayıp cezalandırmak da sancak beyinin görevidir.
+
+Merkez bir şehir veya kasaba ile bu yerleşimleri çevrelemiş köylerden oluşan idari birliktir. Osmanlı Devleti, adli ve idari teşkilatlanma açısından birçok kaza bölgesine ayrılmıştır. Bütün kazalar doğrudan Dîvân-ı Hümâyun’a bağlıdır. Eyalet ve sancaklar askerî teşkilat olarak sınıflandırılırken kazalar sivil bir karaktere sahiptir. Kaza idaresinin başı olan kadı, şehirde ikamet etmiş ve kendisinin bulunamadığı yer ve durumlarda bazı idari işleri naib-i kadı adı verilen vekili üzerinden yürütmüştür.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 250**

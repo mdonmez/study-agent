@@ -1,0 +1,9 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 192
+
+Gençlik yıllarında önemli âlimlerden dersler almış, babasının da etkisiyle erken yaşlarda tasavvufla tanışmıştır. Bursa’ya yerleştikten sonra Molla Fenari’nin talebesi olmuş, kısa sürede dinî ve akli ilimlerdeki bilgisiyle tanınmıştır. Yıldırım Bayezid ile yakın ilişkiler kurarak kızı Hundî Fatma Sultan ile evlenmiştir. Bu dönemde Yıldırım Bayezid’e verdiği tavsiyelerle Bursa Ulu Cami’nin inşasına önayak olmuştur.  
+ Emir Sultan, saraya damat olduktan sonra da Bursa’nın manevi iklimini geliştirmek için gayret göstermiş, kurduğu sohbet ve ilim halkalarıyla hem halkın hem de ilim talebelerinin dinî ve kültürel birikimini güçlendirmiştir. Bu kapsamda Molla Fenari, Hacı Bayram Veli, Somuncu Baba gibi dönemin önde gelen mutasavvıf ve âlimleriyle, ayrıca Bursa’da yaşayan veya buraya misafir olarak gelen ilim insanlarıyla sohbetler etmiş ve fikir alışverişinde bulunmuştur. Bununla birlikte her yıl erguvanların rengârenk açtığı dönemde kendi dergâhında erguvan şenlikleri düzenlemiş, Osmanlı Devleti’nin farklı şehirlerinden gelen dervişleri ve ilim talebelerini ağırlamıştır. Bu şenliklerde insanlar hem Emir Sultan’ı ziyaret etmiş hem de dergâhtaki sohbetlere ve toplu zikirlere katılarak şehir gezilerine iştirak etmiştir.  
+ Emir Sultan’ın yoğun gayretleri, Bursa’daki ilmî faaliyetlerin gelişmesine ve sosyokültürel hayatın olumlu yönde değişmesine önemli katkılar sağlamıştır. 1430’da Bursa’da vefat eden Emir Sultan’ın cenaze namazı, vasiyeti gereğince yakın dostu olan Hacı Bayram Veli tarafından kıldırılmıştır.
+
+**Soru: Emir Sultan’ın Osmanlı ilim ve irfan hayatındaki rolünü konu alan kısa bir şiir yazınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 192**

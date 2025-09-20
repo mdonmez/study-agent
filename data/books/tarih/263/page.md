@@ -1,0 +1,13 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 263
+
+Yaşadıkları topraklardan kaçırılarak köleliğe zorlanan yaklaşık 1,8 milyon insan, Atlantik Okyanusu’nu geçerken kötü koşullar nedeniyle hayatını kaybetmiştir. Bu nedenle kaynaklarda sayısının 12 milyondan fazla olduğu belirtilen kölelerin bir bölümü Amerika kıyılarına bile ulaşamamıştır.  
+ Güneydoğu Asya coğrafyası, Atlantik ticaretinin yapıldığı ülkelerden uzak olduğu ve buradaki ticari faaliyetlerde Hollandalılar hâkimiyet kurduğu için köle ticaretine dâhil olmamıştır. Bu bölgedeki yerli halklar, Hollanda Doğu Hindistan Şirketi tarafından köleleştirerek Batavia [ Batavya (bugünkü Jakarta)] gibi merkezlerde çalıştırılmış; bu köleler genellikle Cava, Sumatra, Filipinler, Borneo gibi Güneydoğu Asya adalarından temin edilmiştir.
+
+Köle ticareti XIX. yüzyılın ortalarında büyük ölçüde sona ermiş olsa da köleliğin tamamen kaldırılması ve etkilerinin silinmesi uzun yıllar almıştır. XX. yüzyılda bile bazı bölgelerde köleliğe benzer sömürü faaliyetleri devam ettirilmiştir. Kölelik karşıtı protestolar, insan hak ve özgürlükleri mücadelesinin önemli bir parçası olarak tarihe geçmiştir. Birleşmiş Milletler Genel Kurulu da 17 Aralık 2007de aldığı bir kararla 25 Mart gününü Uluslararası Kölelik ve Transatlantik Köle Ticareti Mağdurlarını Anma Günü ilan etmiştir.
+
+Batı Afrika’da kıyılarında bulunan Gine Körfezi’nde İngiliz, Fransız, HollandalI ve Portekizli tüccarların köle satın aldığı bir toplama kampı (Temsili)  
+ Köle ticaretinin merkez üssü olan bu kamplarda genellikle yerel liderlerin getirttiği ya da kaçırdığı Afrikalılar köle olarak Avrupalı tüccarlara satılıyordu. Kölelerin gemilere bindirilmeden önce insanlık dışı koşullarda tutulduğu bu kamplar; büyük avlulardan, ofislerden ve depolardan oluşuyordu. Burada şeker, tütün, altın gibi ticari mallar karşılığında Avrupalılara satılan köleler; yetersiz beslenme, şiddet, salgın hastalık gibi kötü yaşam koşulları altında aylarca bekletiliyor, daha sonra uzun süren gemi yolculuklarıyla Amerika kıtasına taşınıyordu. Görselde görüldüğü üzere bu kamplarda İngiliz, Fransız, Portekizli ve Hollandalı tüccarlar için ayrı alanlar tahsis edilmişti. Her ülkenin kendi bayraklarını asarak mimari düzenlemeler yaptığını gösteren bu görsel, köle ticaretindeki rekabetin ne kadar organize olduğunu göstermesi bakımından son derece önemlidir.
+
+**Soru: Köle toplama kampında yaşamak zorunda kalsaydınız neler hissederdiniz? Açıklayınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 263**

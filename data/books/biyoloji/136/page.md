@@ -1,0 +1,11 @@
+## 10. Sınıf Biyoloji Ders Kitabı Cevapları Meb Yayınları Sayfa 136
+
+Su döngüsü; buharlaşma, yoğuşma, terleme gibi temel olaylarla gerçekleşir. Okyanus, deniz, göl, akarsu ve karalardan buharlaşan su atmosfere geçer. Su ayrıca canlıların terleme ve solunumuyla da atmosfere çıkar. Atmosferdeki su buharı; hava olayları ile yağmur, kar veya dolu olarak yeryüzüne iner. Yeryüzüne inen suyun bir kısmı tekrar buharlaşarak atmosfere çıkar. Suyun bir kısmı dere ve nehir sularıyla denizlere ve okyanuslara taşınır. Toprak tarafından emilen suyun bir kısmı da yer altı sularını oluşturur.  
+ Karbon Döngüsü  
+ Karbon, canlı organizmaların yapısını oluşturan organik moleküllerin temel elementidir. Atmosferde, okyanuslarda, tatlı sularda, toprakta ve canlı organizmaların dokularında bulunan karbon bu sistemler arasında sürekli bir dolaşım hâlindedir. Karbonun atmosfer, bitki örtüsü, okyanus, deniz, tatlı su, toprak ve canlı organizmalar arasında dolaşımına karbon döngüsü denir (Görsel2.34). Karbon, atmosferde C02; suyun içinde COz ve bikarbonat; karada ise doğal gaz, petrol, kömür ve kireç taşı olarak bulunur.  
+ Yeşil bitkiler ve fitoplanktonlar ortamdaki karbondioksidi fotosentezde kullanır. Fotosentez sonucu oksijen ve organik maddeler oluşur. Fotosentez yapan canlılar, ihtiyaç duydukları enerjiyi elde etmek için sentezledikleri organik maddelerin bir kısmını solunumda kullanır. Solunum sonucu açığa çıkan karbondioksit atmosfere geri verilir. Organik maddeler besin zinciri yoluyla üreticilerden tüketicilere aktarılır. Tüketiciler tarafından besinlerle alınan organik maddeler sindirilir ve bunların bir kısmı solunumda kullanılır. Böylece fotosentezle organik besinlerin yapısına katılan karbondioksit, solunum sonucu tekrar atmosfere geçerek döngüye katılır. Bitki ve hayvanların atıkları ve kalıntıları, ayrıştırıcılar tarafından parçalanır. Canlıların yapısına katılan karbon; solunum, boşaltım ve ayrışma sonucu tekrar atmosfere döner. Ayrıca odunun veya fosil yakıtların (kömür, petrol ve doğal gaz) yanması ile de karbondioksit atmosfere verilir.  
+ Kireç taşları karbonu hapseder. Yeryüzündeki kireç taşlarının zamanla aşınması ile içlerindeki karbon açığa çıkar ve tekrar karbon döngüsüne katılır.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Biyoloji Ders Kitabı Sayfa 136**

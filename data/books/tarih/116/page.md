@@ -1,0 +1,9 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 116
+
+2017’de yayımlanan Halil İnalcık’ın Bursa Araştırmaları adlı eserde Halil İnalcık’ın şu değerlendirmelerine yer verilmiştir: “Bizans kaynaklarını eskiden doğrudan doğruya kullanamıyordum. Fakat şimdi çok güzel Almanca ve Fransızca tercümeleri var. Pachymeres’in Faiyee ve Lorant tercümesi 4 cilt, çok güzel. Faiyee’nin yaptığı yorum notlarında çok hataları var, ama tercüme çok önemli. Pachymeres’i çok iyi okudum( … ) Bu okumalarım sayesinde başka bir şey tespit ettim, çok enteresan bir şey. Osman Gâzi Bizans İmparatorluğu ile karşı karşıya geldi, çünkü biliyorsunuz, İznik’i kuşatıyordu; İmparator da İznik’i korumak için doğrudan doğruya Osman Gâzi’yi karşısına aldı ve işte tam o anda Bizans-Osmanlı mücadelesi başladı. Çünkü İznik’i almak istiyor Osman Gâzi. Ben bu konuda iki makale yazdım. Bu gelişmeler artık apaçık bir hakikattir. Fakat bizim tarihlerimizde Osman Gâzi’nin esas hedefinin İznik olduğu hiç söylenmez. İznik, Bizans’ın ikinci payitahtıdır. Kilise bakımından daima konsüllerin toplandığı en önemli merkezdir.( … ) Şimdi, Pachymeres’ten Osman Gâzi’nin asıl amacını okuyup Türk kaynağı ile karşılaştırdığınız zaman çok enteresan durumlar çıkıyor. Osmanlı kroniklerini Bizans kaynakları ile karşılaştırmamız şart. Ben özellikle bu konuları yeniden gözden geçirerek, yeni deliller ve tarihi kanıtlar arayarak aydınlatmaya çalıştım.”
+
+**Soru: 1) Halil İnalcık’ın İznik’in alınmasıyla ilgili çıkarımlarını yeni bilgi, fikir ve iddiaları öğrenmenin gerekliliği bağlamında değerlendiriniz.**
+
+**Soru: 2) Halil İnancık’ın yaptığı çalışmaları çalışkanlık değeri ile ilişkilendiriniz ve Halil İnalcık’ın çalışkanlığına üç kanıt cümlesi yazınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 116**

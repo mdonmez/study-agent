@@ -1,0 +1,11 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 221
+
+“Çaldıran muharebesinden sonra başta Diyarbekir olmak üzere birçok Doğu Anadolu şehri Osmanlılar’ın eline geçti. Böylece Selçuklulardan sonra bozulan Anadolu birliği tekrar ve kalıcı olarak sağlanmış oldu. Bıyıklı Mehmed Paşa Diyarbekir beylerbeyiliğine getirildi, tarihçi İdrîs-i Bitlis! de müşavir olarak onun yanına verildi. İdrîs-i Bit- lisf’nin gayretleriyle Harput, Meyyafarikîn, Bitlis, Hısnıkeyfâ, Urfa, Mardin, Cezire ve Dakka’ya kadar Güneydoğu Anadolu bölgesi ile Musul dolayları Osmanlı idaresine geçti. Tebriz-Halep ve Tebriz-Bursa İpek yolu Osmanlılar’ın kontrolüne girmiş oldu. Şiî inancının yayılması büyük ölçüde durduruldu, geçici de olsa Safevî tehlikesi ortadan kalktı. Bu zaferden sonra Yavuz Sultan Selim ‘şah’ unvanını kullanmaya başlamış, hatta bu unvan “Sultan Selim Şah” diye sikkelere de işlenmiştir. Yavuz’dan sonra gelen padişahlar da aynı unvanı kullanıp kendi dönemlerinde basılan paralara işlediklerinden bu unvanla basılan paralara ‘şah!’ denmiştir.”
+
+Osmanlı Devleti’nin Memlûk Devleti’ne bağlı DulkadiroğuMarı Beyliği’ni hâkimiyeti altına alması ve Memlûk Devleti’nin Safevi Devleti’yle ittifak kurması, Osmanlı-Memlûk ilişkilerinin bozulmasına neden oldu. Bunun üzerine Yavuz Sultan Selim büyük bir orduyla Doğu Seferi’ne çıkarak 1516’da Mercidabık ve 1517’de Ridaniye savaşlarıyla Memlûk topraklarını kendi hâkimiyeti altına aldı ve Memlûk Devleti’ne son verdi (Harita 3.6).
+
+Memlük Sultanlığı’na son verişi ise İslam dünyasının tek bir bayrak altında toplanması projesinin ilk adımını teşkil etmiştir. Böylece Osmanlılar önemli bir dinî misyonun temsilcisi sıfatıyla şöhret kazanmıştır. Bununla birlikte bizzat kendisinin hilafeti devralarak bu görevi ahfadına [torunlarına] miras bıraktığı yolundaki bilgilerin doğruluğu şüphelidir. İstanbu/’da iken Ayasofya’da düzenlenen bir törenle hilafeti halifeden devraldığı rivayetinin tarihî bir değeri yoktur. Yavuz Sultan Selim’in İslam dünyası üzerinde bütünleştirici bir lider sıfatını haiz olması dönemin bazı kaynaklarınca ‘hilafet tahtının sultanı’şeklinde anılmasına yol açmıştır. Resmî belgelerde ise Mekke ve Medine’nin koruyucusu [hizmetçisi](hâdimü’l-Haremeyn) unvanıyla zikredilmiştir.”
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 221**

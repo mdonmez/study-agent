@@ -1,0 +1,16 @@
+## 10. Sınıf Biyoloji Ders Kitabı Cevapları Meb Yayınları Sayfa 152
+
+Yağışlarla gelen su yüzey sularıyla birleşerek, toprağı sürükleyip aşağılara taşır. Yeterli bitki örtüsü bulunmayan düz ve geniş arazilerde ise gevşek, kuru ve ince yapılı toprağın sert ve kuvvetli rüzgârla taşınması rüzgâr erozyonudur. İklim, arazinin eğimli olması, toprağın yapısı ve bitki örtüsü erozyonu etkileyen doğal etmenlerdir. Ormanların kaçak kesimlerle veya yangınlarla tahrip edilmesi, meralarda düzensiz ve aşırı otlatma yapılması, arazilerin yanlış kullanılması, çok dik arazilerde bilinçsiz tarımsal faaliyet yapılması gibi uygulamalar ise erozyon riskini artıran insan kaynaklı sebeplerdir. Erozyon sebebiyle toprak ve verimli arazi kaybı yaşanır. Toprağın fiziksel, kimyasal ve biyolojik özelliklerini kaybetmesi ile ürün verimi de düşer. Bu durum toprağı işleyerek geçinen insanların kırsal kesimden kente göçlerini artırır. Su, rüzgâr vb. etkenlerle taşınan toprak; baraj ve gölleri doldurarak enerji üretiminin azalmasına, içme ve kullanma suyu miktarının düşmesine ve sudaki biyoçeşitliliğin azalmasına neden olur. Toprak kaybı ile beraber kuraklık ve çölleşme meydana gelir. Erozyona uğrayan arazilerde sağanak yağışlarda sel ve taşkınlar meydana gelebilir.
+
+**Orman Yangınları**
+
+Ormanlar bulunduğu ekosistemin en önemli ögelerindendir. Biyoçeşitliliğin sürdürülmesini sağlar, havayı ve suyu temizler, su döngüsüne katkıda bulunur, toprağın tutunmasını sağlayarak erozyonu önler ve diğer canlılar için yaşama alanı sağlar. Ormanda ağaçlar, otlar, çam vb. ağaçların iğne yaprakları (ibre), kuru yapraklar, kuru ağaçlar/dallar vb. yanıcı maddeler bulunur. Bunları kısmen veya tamamen yakan ve etrafının açık olması nedeniyle serbest yayılma eğilimi gösteren yangınlara orman yangınları denir (Görsel 2.47). Orman yangınları, yanıcı maddenin ve ısı kaynağının varlığı ile hava şartlarının müsait olması sonucu ortaya çıkmaktadır. Orman yangınlarının çoğunun çıkış sebebi bilinmemektedir. Yildırım düşmesi, volkanik patlamalar ve çöplüklerde metan gazı sıkışmasına bağlı patlamalar orman yangınlarının doğal sebepleridir.
+
+**Orman yangını**
+
+Elektrik nakil hatlarındaki kazalar, makine ve araçların çıkardığı kıvılcımlar, tarla veya otlakların genişletilmesi, orman içinde veya etrafındaki istenmeyen otların yakılması, yakılan ateşin söndürülmeden bırakılması, cam ve cam kırıkları ile sönmemiş sigara izmaritleri ve kibritlerin ormana atılması gibi kaza, ihmal, dikkatsizlik veya kasıt içeren insan faaliyetleri orman yangınlarının en önemli sebepleridir.  
+ Orman yangınları sebebiyle ormanlarda yaşayan canlıların habitatı zarar görür. Bu durum biyoçeşitliliğin de zarar görmesine, bazı türlerin yok olmasına neden olabilir. Yangınlar; iklimi oluşturan sıcaklık, rüzgâr, nem, yağış gibi faktörlere doğrudan etki ederek iklim sistemlerinde bozulmalara neden olur. Ormanların zeminini oluşturan toprak yapısı bozulur; canlı ve cansız örtünün yok olmasıyla erozyon, sel-taşkın, hava kirliliği gibi doğal afetlerin sayısında ve hızında artma görülür. Ülkemizde orman yangınlarının yaklaşık %97’si yaz aylarında görülmektedir.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Biyoloji Ders Kitabı Sayfa 152**

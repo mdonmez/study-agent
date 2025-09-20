@@ -1,0 +1,9 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 219
+
+İspanya’daki Müslümanların ve Yahudilerin kurtarılması, Sultan İl. Bayezid Han Dönemi’ndeki en önemli gelişmelerden biridir. 756’da kurulan Endülüs Emevi Devleti’nin iç karışıklıklar ve taht mücadeleleri nedeniyle 103l’de dağılmasından ve küçük devletlere bölünmesinden sonra Endülüs’teki Müslümanlar eski güçlerini kaybetmiş, bu durumdan yararlanan Hristiyan devletler de topraklarını genişletmişti (Harita 3.4, 3.5). 1469’da Kastilya tahtının vârisi lsabella (İzabella) ile Aragon tahtının vârisi Fernando’nun evlenmesi, iki krallığın birleşmesine ve Hristiyan olmayan milletlere zulmeden bir İspanya’nın kurulmasına neden oldu. Aragon Kralı İl. Fernando ve Kastilya Kraliçesi 1. lsabella tarafından kurulan engizisyon mahkemelerinde Müslümanlara ve Yahudilere ya Hristiyan olmaları ya da İspanya’yı terk etmeleri konusunda büyük baskılar yapıldı. Bu süreçte Müslümanlar ve Yahudiler çeşitli işkencelerle katledildi ve ülkeden sürüldü.
+
+Sultan İl. Bayezid Han Dönemi’nde Osmanlı Devleti; Memlûklarla savaştıkları, Cem Sultan olayıyla uğraştıkları ve yeterince güçlü bir donanmaya sahip olmadıkları için İspanyolların kuşattığı Benî Ahmer Devleti’ne yardım ve destek gönderemedi. Ancak gerek İl. Bayezid gerekse Kanuni Sultan Süleyman Han dönemlerinde İspan- ya’daki binlerce Müslüman gemilerle Kuzey Afrika topraklarına taşındı. Bu süreçte Osmanlılar sadece İspan- ya’daki Müslümanlara değil zulüm altındaki Yahudilere de yardım eli uzattı. İspanya’daki birçok Yahudi ailesi Osmanlı topraklarına getirilerek yerleştirildi. Osmanlılar, Sultan İl. Selim ve Sultan 1. Ahmet dönemlerinde de Endülüs’te zulüm altında yaşayan Müslümanlara yardım etmek için pek çok girişimde bulundu.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 219**

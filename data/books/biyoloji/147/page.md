@@ -1,0 +1,13 @@
+## 10. Sınıf Biyoloji Ders Kitabı Cevapları Meb Yayınları Sayfa 147
+
+faktörlerin etkisiyle meydana gelir. Bir türün başka bir yaşam alanı olmadığında veya tür yer değiştiremediğinde oluşan habitat kaybı, türün yok olması anlamına gelebilir. Habitat parçalanması ve kaybı, bir bölgedeki türlerin birey sayısını ve çeşitliliğini azaltır. Habitat parçalanması sonucu yaşam alanları arasındaki mesafe arttığından türlerin yayılması zorlaşır. Bitkilerde adaptasyon sağlayamama, çimlenme yeteneğini kaybetme ve rekabet güçlerinde azalma meydana gelir. Hayvanlarda yaşam alanlarının tahribatı; yuva yapma, yavrulama, göç gibi davranışlarda bozukluk meydana getirir. Karasal ve sucul ekosistemlerde tarım ilaçlarının yaygın ve yanlış kullanımı, sulak alanların kurutulması, aşırı avlanma, plansız yapılaşma, nehirlere barajlar kurulması, akarsuların akışının değiştirilmesi gibi insan faktörleri; verimli tarım arazilerinin, ormanlık ve sulak alanların, deniz ve tatlı su habitatlarının bozularak geri dönüşsüz yok olmasına neden olmaktadır.  
+ Kirlilik ve Çevre Sorunları  
+ Kirlilik çeşitli atık maddelerin hava, su ve toprağa karışarak doğal yollarla ahlamaması durumudur. Bu atıkların yoğun bir şekilde çevreye yayılması, hem canlıların yaşamını olumsuz etkiler hem de ekosistemlerin dengesini bozar.  
+ Hava kirliliği, ozon tabakasının incelmesine veya asit yağmurlarına yol açabilir.  
+ Ayrıca su ve toprak kirliliği de çevre için ciddi tehditler oluşturur. Radyoaktif kirlilik, canlıların maruz kalma seviyelerine bağlı olarak büyük zararlara yol açabilir. Küresel iklim değişiklikleri, erozyon ve orman yangınları da çevresel bozulmanın başlıca nedenlerindendir. Kirlilik ve çevre sorunları beraberinde biyoçeşitliliğin kaybına yol açabilir.  
+ Hava Kirliliği  
+ İnsan sağlığını veya çevresel dengeleri bozacak şekilde havanın içeriğinin değişmesine ya da havada bulunmaması gereken maddelerin havaya karışmasına hava kirliliği denir. Hava kirliliği kirletici kaynaklarına göre doğal kaynaklar ve yapay kaynaklar olarak ikiye ayrılır. Doğal kaynaklara yanardağ faaliyetleri, orman yangınları, çöl tozları ile açık arazilerdeki hayvan türlerinin ve bitki örtüsünün bozulması örnek verilebilir. Sanayi ve ulaşım alanlarındaki faaliyetler sonucunda ortaya çıkan hava kirliliği, doğanın dengesini olumsuz Görsel2.39 etkilemektedir. Fosil yakıtların aşırı kullanımı, fabrika bacalarından çıkan gazlar a) Fabrika bacalarından ve motorlu taşıtlardan salınan egzoz gazları yapay kirleticilere örnektir (Görsel çıkan gazlar, b) Egzoz 2.39 a, b).
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Biyoloji Ders Kitabı Sayfa 147**

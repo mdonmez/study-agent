@@ -1,0 +1,10 @@
+## 10. Sınıf Biyoloji Ders Kitabı Cevapları Meb Yayınları Sayfa 103
+
+Işık, ekosistemdeki canlıları etkileyen önemli bir bileşendir. Bitkiler ve bazı mikroorganizmalar, fotosentez yaparak güneş ışığını besin üretmek için kullanır. Bu sayede ekosistemdeki canlılara enerji sağlayan besin zinciri başlar. Işığın şiddeti, dalga boyu ve süresi; canlıların gelişimini, üremesini ve davranışlarını etkiler. Bitkiler, yeterli ışık olmadığında fotosentez yapamaz ve bitkilerin büyümeleri yavaşlar. Ayrıca bitkilerin çiçek açma zamanında gün uzunluğu etkilidir. Bitki gelişimi üzerinde ışıklanma süresi gibi ışık yoğunluğu da etkilidir. Bazı bitkiler yoğun ışıkta bazıları da gölgede gelişir. Işık hayvan davranışlarında da etkilidir. Günlerin uzaması veya kısalması; kuşların göç etmesine, bazı hayvanların kış uykusuna yatmasına ve üreme dönemlerinin başlamasına neden olabilir.  
+ Sıcaklık, canlıların biyolojik süreçleri üzerinde önemli bir bileşendir. Canlıların çoğunluğu, metabolik faaliyetlerini belirli bir sıcaklık aralığında sürdürebilir. Bunun başlıca nedeni, proteinler ve enzimlerin etkin çalışabilmesinin doğrudan sıcaklıkla ilişkili olmasıdır. Farklı sıcaklık değerlerinde yaşayabilen caniıiar bulundukları ortama uyum sağlamışlardır. Örneğin çöle özgü bitkilerden kaktüsler, 50 °C’un üzerindeki sıcaklıklara dayanacak şekilde çöle uyum sağlamışlardır (Görsel2.4).
+
+Çöl tilkisi ile kutup tilkisinin kulak, kuyruk, burun gibi vücut çıkıntılarının büyüklükleri ve kürk renkleri yaşadıkları ortama uyum sağlayacak şekilde farklılık gösterir (Görsel 2.5 a, b). Ayrıca çöl yaşamına uyum sağlayan develer, vücut sıcaklıklarını çevre koşullarına göre esnek bir şekilde ayarlayarak terlemeyi Görsel 2.5 minimuma indirir. Bu sayede, su kaybını en aza indirerek uzun süre susuz kalabilir (Görsel 2.5
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Biyoloji Ders Kitabı Sayfa 103**

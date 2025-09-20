@@ -1,0 +1,9 @@
+## 10. Sınıf Biyoloji Ders Kitabı Cevapları Meb Yayınları Sayfa 104
+
+Su canlı yaşamının devamlılığı için gerekli olan önemli bir bileşendir. Belirli bir bölgedeki su miktarı, o alandaki canlıların dağılışını ve sayısını doğrudan etkiler. Su kaynakları zengin olan bölgelerde canlı çeşitliliği daha fazladır. Madde taşınması, sindirim, fotosentez, boşaltım, solunum, vücut sıcaklığının ayarlanması, enzimlerin çalışması gibi pek çok hayati olayda su gereklidir. Su miktarı belirli bir seviyenin altına düştüğünde enzimler yeterli şekilde çalışamaz. Bu nedenle özellikle kurak ortamlarda yaşayan canlılar için su, sınırlayıcı bir bileşendir. Ancak çöl gibi kurak ortamlarda yaşayan canlılar, su kaybını azaltacak yapılar ve özelliklerle ortama uyum sağlamıştır. Sarı sabır bitkisinin yapraklarında su depolaması, kanguru sıçanının su içmeden kuru tohumlarla beslenerek uzun süre hayatta kalabilmesi buna örnektir (Görsel 2.6 a, b).
+
+Toprak; ekosistemlerin temel bileşenlerinden biridir ve hayvan, bitki, mikroorganizma gibi pek çok canlı için yaşam alanıdır (Görsel2.7). Örneğin köstebek, gelincik, solucan gibi hayvanlar toprakta barınırken bitkiler, kökleriyle toprağa tutunarak ondan su ve mineral alır. Toprak; organik ve inorganik maddeler, su ve hava içerir. Bu bileşenler canlıların dağılışı ve ekosistemlerin işleyişi üzerinde önemli bir etkiye sahiptir. Toprağın organik kısmı, mikroorganizmalar tarafından ayrıştırılan humus ve çürüyen organik maddelerden oluşur; inorganik kısmı ise minerallerden meydana gelir.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Biyoloji Ders Kitabı Sayfa 104**

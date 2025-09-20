@@ -1,0 +1,17 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 145
+
+**Soru: Beylikten devlete geçiş sürecinde Osmanlı ordusunda tımarlı sipahiler ve eyalet kuvvetleriyle ile ilgili verilenleri inceleyerek etkinlikleri yapınız.**
+
+Has, zeamet veya tımar arazisi verilen kimselere sahib-i arz ya da tımarlı sipahi denirdi. Tımar sahipleri, kendi dirliği içindeki boş mirî arazileri devletinin temsilcisi olarak reayaya dağıtır ve işletilmesini sağlardı. Dolayısıyla reaya toprağın sahibi değil, kiracısıydı ve ekip biçtiği toprağa karşılık devlete belirli miktarlarda vergi öderdi. Tımar sahibi ise vergi memuru konumundaydı ve alacağı vergi miktarı kanunlarla belirlenmişti. Reayanın hasat zamanında elde ettiği mahsulden aynî olarak öşür ya da haraç vergisi toplar ve bu vergiyi nakde çevirirdi(Görsel 2.16).
+
+Tımarlı sipahiler kendi dirliklerinde ikamet etmek zorundaydı. Dirlikteki tarımsal üretimin en iyi şekilde organize edilmesinden ve köydeki düzenin sağlanmasından tımarlı sipahiler sorumluydu. Reayanın da sipahiye karşı yükümlülükleri vardı. Geçerli bir sebep olmadan üç yıl boyunca toprağı ekmeyen reaya, bir defaya mahsus olarak çiftbozan adlı bir vergi öderdi. Tımarlı sipahilerin kanunlarla belirlenen vergi ve hizmetler dışında reayadan ek vergi ya da hizmet talep etmesi durumunda köylüler tımarlı sipahiyi şikâyet edebilirdi. Bu durumda tımarlı sipahi ile reaya arasındaki ilişkilerin kanuna uygunluğunu denetlemek kadıların göreviydi.
+
+Tımarlı sipahiler vergi geliriyle hem geçimlerini sağlar hem de askerî hizmetleri yürütürdü. Has ve zeamet sahipleri reayadan devlet adına topladıkları vergiler karşılığında her beş bin akçe için bir, tımarlı sipahiler ise kılıç hakkı hariç olmak üzere her üç bin akçe için bir cebelü askeri yetiştirmek zorundaydı. Cebelü, tımarlı sipahinin yetiştirdiği ve savaşa götürmekle yükümlü olduğu zırhlı ve silahlı askerdi. Genellikle köylülerden ve sipahinin parayla aldığı veya savaşlarda esir ettiği kimselerden seçilen cebelüler, tımar sahibi tarafından tam teçhizatlı olarak savaşa hazır tutulurdu.
+
+Tımarlı sipahiler, savaş zamanlarında bölüklere ayrılarak kendi sancaklarındaki alay beylerinin komutasına girer; alay beyleri sancak beylerine, sancak beyleri ise beylerbeylerine tabi olurdu. Ancak tımarlı sipahilerin onda biri bölgeyi korumak ve işleri yürütmek için yerlerinde kalırdı. Mazeret belirtmeden savaşa gitmeyen sipahilerin tımarları ellerinden alınır, başarılı olanlar ise dirliklerine ekleme yapılarak ödüllendirilirdi.
+
+Osmanlı ordusunun büyük bölümünü eyaletlerden gelen tımarlı sipahiler oluştururdu (Görsel 2.18). Bu askerler, savaş sırasında ordunun sağ ve sol kanatlarını oluşturur ve hilal düzeni gibi taktiklerle merkezdeki orduyu yanlardan gelebilecek saldırılara karşı korurdu.
+
+Kuruluş Dönemi’nde Balkanlarda Hristiyan tımarlı sipahilere ve onların Müslüman olmuş oğullarına da rastlanırdı. Tımarlı sipahiler kanuna aykırı davranmadıkları sürece ölene kadar dirliklerini işletme hakkına sahipti. Öldüklerinde ise oğullarına sadece kılıç hakkı verilir ve uygun görülen oğullar başka bir tımarda görevlendirilirdi. Bu uygulama sayesinde tımarın büyümesi engellenmiş olurdu.
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 145**

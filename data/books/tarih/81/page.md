@@ -1,0 +1,11 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 81
+
+Orta Çağ Avrupası’na hâkim olan skolastik düşünce; toplumların bilim, eğitim, kültür ve sanata bakış açılarını büyük ölçüde etkiledi. X-XIII. yüzyıllarda Katolik Kilisesi ve tarikatlar da sanatsal çalışmalarda belirleyici unsur oldu. Bu dönemde başta mimari yapılar olmak üzere birçok sanat eserinin tasarımında ve yapımında Hristiyan din adamları görev aldı.  
+ Katedral, manastır gibi dinî yapıların yanı sıra şato, kale, saray gibi görkemli binaların da inşa edildiği bu dönemde Avrupa mimarisi iki farklı sanat anlayışına göre şekillendi. Bunlardan ilki IX. yüzyılda başlayıp XII. yüzyıla kadar devam eden romanesk sanat, ikincisi ise XII-XVI. yüzyıllarda etkili olan Gotik sanattı. Dinî karaktere sahip bir üslubun benimsendiği bu sanat anlayışları, Avrupa’nın çeşitli bölgelerinde farklılıklar gösterdi.  
+ XI-XIII. yüzyıllarda Avrupa’da mimarinin yanı sıra resim, heykel ve süsleme sanatlarında da özgün örnekler verildi. Başta katedral ve manastırlar olmak üzere inşa edilen pek çok mimari yapı farklı tekniklerle süslendi (Görsel 1.24). Bu dönemde yapılan fresk, heykel ve vitraylarda Eski Ahit (Tevrat) ve Yeni Ahit’te (İncil) anlatılan olaylar tasvir edildi. Resim sanatında dinî konuların işlendiği fresklerin yanı sıra XIII. yüzyılın ortalarından itibaren el yazması kitaplar için minyatürler çizildi. Bu el yazması kitaplarda zaman içinde dinî tasvirlerin dışında dünyevi konularla ilgili resimler de görülmeye başlandı.
+
+Gotik mimarinin ilk örneklerinden olan bu katedral, XII. yüzyılda Başrahip Suger (Suje) tarafından yeniden inşa edilmiştir. Katedraldeki sivri kemerler ve kaburgalı tonoz, Gotik üslubun en belirgin özellikleridir. Merovenjler, Karolenjler ve Capet Hanedanı mensubu olan birçok kral ve kraliçe bu katedralin bahçesine defnedilmiştir. Bu nedenle katedral, Fransız kraliyet ailesinin simgelerinden biri kabul edilmektedir.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 81**

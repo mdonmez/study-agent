@@ -1,0 +1,16 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 185
+
+İlk Türk-İslam devletlerinde olduğu gibi Osmanlı Dönemi’nde de medreselerin yanı sıra cami ve mescitlerde eğitim verilmeye devam edildi. Bu dönemde müderrisler bir kürsü veya rahle üzerine yerleştirdikleri kitaplardan ya da bu kitaplarla ilgili şerhlerden yararlanarak derslerini işlerdi. Derslerde bu kitaplardaki metinler kelime kelime okunur ve Türkçe’ye tercüme edilirdi. Öğrenciler müderrisin önünde yarım halka şeklinde oturur, önlerindeki metinlerden müderrisin anlattıklarını takip ederdi. Gerekli gördükleri yerlerde not alırlar ve öğretmenlerine sorular sorarlardı. Önemli konularda kritik görülen bazı metinler öğrenciler tarafından ezberlenirdi. Karmaşık konuların anlaşılması ve çözümlenmesi için metinlerle ilgili şerh ve derkenarlardan da yararlanılırdı.
+
+**Kaynak J**  
+ “Medreselerde eğitim dili Arapça’ydı. Arap olmayan talebelere önceleri Arapça öğretilirken dersler kendi dillerinde anlatılırdı. Talebeler ilerledikten sonra genellikle Arapça ders verilirdi. En önce Arapça’nın grameri ve kelime bilgisi (lügati) öğretilirdi. Arapça diğer ilimleri anlamanın anahtarı olduğu için, Arapça ile ilgili ilimlere âlet ilimleri denirdi. Talebeler Arapça’nın gramerini öğrendikten sonra dinî ilimler ve dinî ilimlere yardımcı olan “cüziyyat” adı verilen mantık, felsefe, edebiyat, hesab, hendese, tıb, astronomi gibi ilimler okurlardı. Daha ileri derecede metinlere ise az sayıda kişi başvururdu.(…)  
+ Şunu da ilâve etmek gerekir ki, Yıldırım Bayezid-/I.Murad devirlerinde Osmanlılar’daki ilmî seviye, Fatih devrinden hiç de aşağı değildi. Bu devrin â/imlerinden Kadı-zâde Şemseddin el-Fenarî, Hoca Paşa, Ahmedî, Bedreddin el-Simavı, Ahmed-i Oâî, Fatih devri alimlerinden daha orijinal ilmî kimliğe sahiptiler. Eserleri de buna şehâdet eder. Yine Osmanlı ülkesine gelen Mecdeddin el-Firuzâbâdî, Şemseddin el-Cezerî, Abdurrahman el-Bistamî, İbn Arabşah sahalarının en yetkili âlimleriydi.”
+
+**Kaynak K**  
+ “Yıldırım Bayezid ve sonrası dönemde Osmanlı medreselerinde verilen yüksek ve kaliteli eğitim, bilhassa Bursa ve Edirne’nin birer cazibe merkezi haline gelmesi ve dışarıdan pek çok talebenin ilim öğrenme gayesiyle bu şehirlere gelmesiyle neticelenmiştir. Medrese sisteminin iyice yerleşmesiyle birlikte derece ve sınıf itibariyle bir hiyerarşi de oluşmuştur. Yeni Platonculuk akımının kurucusu meşhur filozof Georgios Gemistos Plethon(1360-1452) muhtemelen 1380’/erde Bizans’tan ‘kaçarak’, felsefe bilgilerini derinleştirmek amacıyla Yıldırım Bayezid devrinin sonlarına doğru Osmanlı başkentine gelmiştir. (…)  
+ Osmanlı Devletinin kuruluş döneminde kurulan medreselerin çok yönlü ve iyi eğitim veren kurumlar olarak güçlü bir cazibe merkezi haline gelmelerinde bu kurumlarda görev yapan müderrislerin devrinin en önemli medreselerinde eğitim gördükten sonra gelip burada çalışmalarının büyük payı vardı. (…)  
+ İznik Medresesinin açılışından sonra Arapça ve Farsçadan Türkçeye bir tercüme hareketi başlamıştır. /. Murad devrinin sonlarında, Osmanlı medreselerin sayısının artmasıyla başlayan bu tercüme hareketi İl. Murad döneminde zirveye ulaşacaktır.”
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 185**

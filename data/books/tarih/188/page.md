@@ -1,0 +1,13 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 188
+
+“Kitaplara ilgisi olan kentlilerin yazılı kültüre ulaşmasında dergâhlar büyük rol oynardı ve bunların sayısı çoktu; büyükçe bir kentte rahatlıkla yirminin üstünde dergâha rastlanırdı. (…)  
+ Büyükçe dergâhların bir de kütüphaneleri bulunurdu; kitapları dervişler ve başka tarikat mensupları bağışlardı. Bunun hiç kuşkusuz en ünlü örneği Mevlevi tarikatının Konya’daki merkez dergâhının günümüze kadar ulaşmış olan kütüphanesidir. Bu kütüphanenin yayımlanmış olan ve üç kalın cilt tutan kataloğunda Kuran tefsirlerinden Buhari ve Müslim bin Haccac gibi bilginlerin hadis kitaplarına kadar pek çok eser yer almaktadır. Ortaçağın büyük din bilgini ve mutasavvıflarından Gazali, Attar ve özellikle Muhyiddin Arabi’nin de birçok kitabı vardır. Kütüphanede pek çok şiir mecmuasının yer aldığı da bilinmektedir.”
+
+“Büyük tekkelere âsitâne, dergâh veya hânkah adı verilirdi. Bu türden yapılar şehir merkezlerinde inşa edilmişlerdir. Zaviye, tekkenin küçüğüdür. Bunlar, şehir, kasaba ve köylerle ticari yönden önemsiz yollar üzerinde hayırseverler tarafından kurulur; tahsis edilen vakıfların gelirleriyle gelip geçen yolcuların yeme ve barınma ihtiyaçları ücretsiz karşılanırdı. Tekkelerden farklı olarak bir kaç hücreden meydana geldiği için buralarda dervişler sürekli kalmazlardı. Eski Türk eğitiminde önemli yerleri olan tekke ve zâviyeler, dini ve tasavvufi bilgilerin verildiği ve uygulanmasının yapıldığı bir çeşit halk eğitim merkezleri durumunda idi. Buralarda, medreseye devam etme imkânı bulamamış insanlara mistik bilgiler veriliyordu. Bunlar daha çok köy ve kasabalarda kurulmuş zaviyeler idi. Şehir merkezlerinde bazı tarikatlara bağlı tekke ve zaviyeler ise, medrese gibi, bir takım derslerin verildiği yerler idi. Özellikle Osmanlı döneminde ilmi tarikatçılığın ön plana çıkarılması ile tekke ve zaviyelerde eğitim-öğretime dair önemli gelişmeler olmuş, buralarda görevli âlim şeyhler, akademik seviyede verdikleri derslerden başka birçok telif eser yazmışlardır. (…)  
+ Konya’daki tekkeler de birer okul durumunda olup, buralarda görevli âlim şeyhler, kendi ihtisas alanlarına giren konularda ders/er veriyorlardı.”
+
+**Soru: 1) Osmanlı Dönemi’nde tekkelerin sosyal ve kültürel hayattaki işlevleri nelerdir? Açıklayınız.**
+
+**Soru: 2) Osmanlı Devleti’nde şehirlerden köylere kadar çok sayıda tekke ve zaviye bulunmasının nedenleri neler olabilir? Açıklayınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 188**

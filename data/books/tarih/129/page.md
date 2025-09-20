@@ -1,0 +1,10 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 129
+
+“1359’da Lala Şahin, Murad ve uc beyleri Edirne’yi fethetmek için bir plan yapıyorlar. Bu plana göre en büyük tehlike, OsmanlIlar Edirne’yi muhasara ettikleri zaman İstanbul’dan bir yardımcı kuvvetin geriden bastırmasıdır. Buna karşı 1360 yılında Murad ve ordusu, Edirne’yi İstanbul’a bağlayan bütün kaleleri ele geçiriyor. Bu kaleler Çorlu, Misili, Lüleburgaz, Babaeski’dir. 1361 baharında Murad, Lala Şahin, Evrenos Bey ve Hacı İlbey Edirne’yi fethetmek için harekete geçiyorlar. Edirne’ye gelmeden hemen önce bir çöküntü vadi olan Sazlıdere’de, Edirne’den gelen tekfurla nihai savaş yapılıyor. (…) Tekfur önce Edirne’ye kaçıyor, sonra oradan da uzaklaşıyor ve şehir 1361 baharında Osmanlı kuvvetlerine teslim oluyor. Şimdi, Batı literatürüne bakarsanız bu tarih 1369, Uzunçarşılı’da 7364’tür. Tüm bu faraziyeler şuradan ileri geliyor. Hepsi Aşıkpaşazade’yi okuyorlar. Diyorlar ki, Murad tahta geçti, gitti Edirne’yi aldı. Murad’ın tahta geçiş tarihini kesin olarak biliyoruz, 1362 Mart ayı. Diyorlar ki, 1362 Mart’ında Murad sultan oldu. Sultan olarak Edirne’yi fethettiyse bu olay 1362’den sonra olmalı, 1363’te veya 7364’te. Hayır. Şu bilinmiyor ki, Murad Edirne’yi şehzade iken, Orhan Gâzi’nin sağlığında almıştır. F. Babinger, kesin olarak bunu ifade ediyor. Türk ve Batı kaynakları o zaman güneş tutulması olmuş, diyorlar. Babinger, bunu astronomlara hesap ettirdi ve fetih olayı 1361  
+ baharına rastlıyor.”
+
+Her ne şekilde olursa olsun Edirne’nin alınışı, Trakya ve Balkanlar için bir dönüm noktası teşkil ettiği gibi bir bakıma İstanbul’un fethini de kolaylaştıracak bir adımı oluşturur. Burası bir üs haline getirilerek bir taraftan Balkanlar’a, diğer taraftan İstanbul’a yönelik iki cephe ortaya çıkmıştır.”
+
+**Soru: Edirne’nin Fethi Osmanlı Devleti’nin Rumeli’deki ilerleyişini nasıl etkileyebilir? Açıklayınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 129**

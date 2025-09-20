@@ -1,0 +1,15 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 159
+
+Osmanlı Devleti’nin iskân politikası sınırları ve hedefleri belirlenmiş, planlı bir yerleşim stratejisidir. Osmanlı yönetimi bu politikaları oluştururken fethedilen bölgenin coğrafi özellikleri, sosyoekonomik yapısı, siyasi durumu, nüfus özellikleri, ulaşım yolları gibi birçok etkeni de göz önünde bulundurmuştur.
+
+İl. Murad Han Dönemi’nde inşa edilen büyük taş köprünün doğu kıyısına stratejik önemi nedeniyle bugünkü adı Uzunköprü olan Cisr-i Ergene şehri kurulmuştur. İnşası 1443’te tamamlanan köprünün bakım ve güvenliği için köprü vakfı, mescit, imaret, hamam ve pazar yeri yapılarak âdeta küçük bir şehir inşa edilmiştir. Bu şehir, Balkan fetihlerinde ve bölgedeki ticaretin gelişmesinde önemli rol oynamıştır.
+
+Yıldırım Bayezid Han Dönemi’nde fethedilen Üsküp, Balkan coğrafyasının merkezinde ve önemli bir kavşak noktasında bulunmaktadır. Osmanlı Devleti’nin uc merkezlerinden biri olan bu şehre Saruhan Bölgesi’nden getirilen Türkler yerleştirilmiş ve kısa sürede birçok cami, han, hamam, çarşı vb. inşa edilerek şehrin imarı sağlanmıştır.
+
+**Kaynak C**
+
+“Osmanlı Devletinin nüfus ve iskân politikasının esasında, sistemin ihtiyacı olan nitelikteki insanların gerekli yerde gerekli miktarda bulundurulmasının temini vardır. Bu politika herhangi bir sosyal grup tercihine dayalı değildir. Mevcut yapıda bütün sosyal grupların yer alması bir amaçtır. Bu amaç doğrultusunda nüfusun iktisadi faaliyet kollarındaki istihdamı, siyasal katılımı, sosyal statüsü vs. ısrarla uygulanan bir politikaya konu olmuştur. Bu yöndeki politika devletin tarihi boyunca herhangi bir dönemlemeye tabi tutulamayacak şekilde sürekli olarak uygulanmak istenmiştir. Fetihler sonrasındaki göçler kent ve kırsal kesimin tabii düzeni içinde varolmasını temin hedefine dönüktür. Bu doğrultuda ehl-i zürradan [çiftçiler] ve diğer mesleklerden olan insanlardan (esnaf, amele vs.) aktarımlar yapılmıştır. Ancak kurulan ekonomik yapı ve askeri teşkilatlanma nüfusun belirli bölgelere yığılmasına izin vermeyen bir nitelikte olduğundan nüfus yığılmalarına da izin verilmemiştir. Bu nedenle nüfusun hareketi sürekli olarak denetime tabi tutulmuş, coğrafi yer değiştirmeler yanında iktisadi faaliyetlerdeki değişime de sınırlamalar getirilmiştir. Bu hususa, daha devletin genişlemesinin henüz tamamlamadığı, coğrafi genişleme ile yeni ele geçirilen bölgelerin iskân dönemlerinde bile dikkat edilmiştir. Mesela belirgin faaliyetleri olmayanlara derbent görevi verilmiştir. Toprağa bağlı bulunan reayanın çiftini, çubuğunu bırakıp bir başka işle meşgul olmasına imkân bırakılmamıştır. Madenlerde çalışan, yolların güvenliğini sağlayan ve tamirini yapan, devlete ürettiği mal ve hizmeti sunmak görevinde bulunan kimselerin meşgul oldukları işleri terk etmeleri kanuna aykırı bir durum olarak görülmüştür.”
+
+**Soru: Osmanlı Devleti’nin iskân politikasında ekonomik faaliyetlerin dikkate alınmasının nedenleri ne olabilir?**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 159**

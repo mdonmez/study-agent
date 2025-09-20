@@ -1,0 +1,14 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 16
+
+**Kaynak Ç**
+
+“(…) Su/tan Alp Arslan, (…) Ahlat – Malazgirt arasında bulunan Rahve ovasına gelip karargahını kurdu. (…) Sultan, imparatora gönderdiği önerisinde ‘Ülkene geri dön, barış yapmak istersen, bunu Bağdat halifesi aracılığıyla yaparız, aksi takdirde biz, azim ve kararımızı, içtenlikle bağlı olduğumuz Ulu Tanrı’ya bırakırız.’ dedi. (…) O, Selçuklu heyetine ‘Ben, bu üstün ve kudretli duruma, pek çok para ve çaba sarf ederek eriştim. Barış, ancak ve ancak Selçuklu başkenti Reyde yapılacaktır. Ben, İslâm ülkelerine, kendi ülkem gibi hâkim olmadan asla geri dönmeyeceğim.'(…) Sultan, 26 Ağustos 1071 Cuma günü, bütün kumandan ve askerleriyle birlikte cuma namazı kıldı ve onlara son olarak şu hitabede bulundu: Ey askerlerim ve kumandanlarım! Daha ne zamana kadar biz azınlıkta, düşman çoğunlukta olarak böyle bekleyeceğiz? Ben, Müslümanların camilerde bizler için dua etmekte oldukları bu saatlerde düşmanın üzerine atılmak istiyorum. (…) Beni izlemek isteyenler gelsinler, istemeyenler ise serbestçe geri dönebilirler.'( …)Sultanı tam bir dikkat ve heyecanla dinleyen asker ve kumandanlar hep bir ağızdan: Ey sultan, biz, senin kulların olarak sen ne yaparsan biz de aynı şeyi yapar ve sana yardımcı oluruz, istediğin biçimde hareket et.’dediler. (…)
+
+Bizans imparatoru, Türklerin eskiden beri uyguladıkları bozkır savaş taktiği gereğince savunma savaşı yapa yapa, yavaş yavaş, sanki kaçar gibi, çekilmekte olan Selçuklu atlı kuvvetlerini izlemeye başladı ve bu sıralarda da oldukça ağır kayıplar verdi.(…) Bizans ordusunun savaş düzeni bozulmaya başladı. (…) Meydan savaşında, koskoca Bizans ordusu yenilgiden kurtulamadı.(…)  
+ Sultan Alp Arslan, imparatora, bir savaş tutsağı değil, bir konuk hükümdar muamelesi yapmıştır.(…) Böylece Alp Arslan ile Romanos Oiogenes arasında yapılan müzakereler sonunda, (…) bir barış antlaşması yapıldı. (…) Zaferden birkaç yıl gibi çok kısa süre sonra Anadolu ve Suriye’de hâkimiyetin Türklerin eline geçmesi sonucunda, bütün Avrupa. Bizans’ı kurtarmak amacıyla harekete geçecek ve Haçlı Seferlerinin hazırlıklarına başlayacaklardır. (…Y’
+
+**Soru: Sizce Sultan Alp Arslan, Türklerle sürekli savaş hâlinde olan ve Malazgirt’te esir alınan Doğu Roma imparatoruna neden konuk muamelesi yapmış olabilir? Açıklayınız.**
+
+* **Cevap**: Sultan Alp Arslan, imparatora konuk muamelesi yaparak Türklerin adaletli ve merhametli olduğunu göstermek istemiştir. Bu tutum hem İslam’ın misafirperverlik anlayışına uygundu hem de Türklerin saygınlığını artırmıştır.
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 16**

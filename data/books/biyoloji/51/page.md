@@ -1,0 +1,13 @@
+## 10. Sınıf Biyoloji Ders Kitabı Cevapları Meb Yayınları Sayfa 51
+
+Besinlerin kimyasal sindirimi ağız, mide ve ağırlıklı olarak ince bağırsakta gerçekleşir. Kimyasal sindirim ile polisakkaritler ve disakkaritler, basit şekerlere; proteinler, amino asitlere; nötral yağlar ise yağ asitlerine ve gliserole parçalanır (Tablo İnce bağırsakta besinlerin sindiriminde pankreastan salgılanan pankreas öz suyu ile karaciğerden salgılanan safra sıvısı da görev alır. Pankreas salgıları, pankreasta üretildikten sonra bir kanalla ince bağırsağın başlangıç kısmına dökülür. Pankreas salgıları, bikarbonat iyonları açısından zengin bir çözeltidir ve mideden ince bağırsağa geçen asitli mide içeriğini nötralize eder. Bu salgılar; aynı zamanda yağ, kar- bohidrat, nükleik asit ve proteinleri sindiren enzimleri de içerir.
+
+Karaciğerde üretilen safra salgısı, safra kesesinde depolanır. Safra salgısı, bir kanalla safra kesesinden ince bağırsağın başlangıç kısmına dökülür. Safranın içeriğinde su, bikarbonat iyonları, safra tuzları, kolesterol, yağ asitleri ve bilirubin bulunur. Safrada sindirim enzimi bulunmaz. Safra tuzları, besinlerdeki yağ damlacıklarının daha küçük parçalara ayrılmasını sağlar. Ayrıca safra, yağda çözünen vitaminlerin emilmesini kolaylaştırır.
+
+Karbohidratların kimyasal sindirimi ağızda salgılanan tükürükle başlar. Tükürükte bulunan enzimle bitkisel depo polisakkarit olan nişasta ve hayvansal depo poli- sakkarit olan glikojen küçük polisakkaritlere ve ınaltoza parçalanır. Midenin asidik ortamı besinlerle gelen enzimin aktivitesini durdurduğu için ağızdan mideye geçen karbohidrat içerikli besinler midede sindirilmez. Ağızda başlayan karbohidrat sindirimi, pankreastan salgılanan enzim ile ince bağırsakta devam eder. Pankreastan salgılanan ve tükürüktekinden daha etkili olan karbohidrat enzimi ile ağızda sin- dirilemeyen nişasta ve glikojen, ince bağırsakta hidroliz edilerek maltoz ve diğer küçük polisakkaritlere parçalanır. İnce bağırsağın epitel hücrelerinden salgılanan enzimler aracılığıyla disakkaritler ve glikoz polimerleri yapı taşlarına ayrılır. Böylece karbohidratların sindirimi ince bağırsakta tamamlanmış olur.
+
+Proteinlerin kimyasal sindirimi midede başlar. Mide öz suyu içinde bulunan HCI, ortamın pH değerini düşürerek ve proteinlerin üç boyutlu yapısını bozarak denatüre eder. Denatüre olmuş proteinler, sindirim enzimlerinin etkisine daha açık hâle gelir.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Biyoloji Ders Kitabı Sayfa 51**

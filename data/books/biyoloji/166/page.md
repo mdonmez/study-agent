@@ -1,0 +1,13 @@
+## 10. Sınıf Biyoloji Ders Kitabı Cevapları Meb Yayınları Sayfa 166
+
+Alan dışı koruma çalışmaları ile biyoçeşitliliğin korunması amacıyla ağaç parkı (arboretumlar), botanik bahçeleri, gen bankaları, arazi gen bankaları ve tohum bankaları kurulmuştur.  
+ Türkiye’de alan dışı koruma çalışmaları ilk olarak Ege Tarımsal Araştırma Enstitüsünün kurulmasıyla başlamıştır. Enstitü kapsamında ulusal tohum gen bankası oluşturulmuştur. Bu kapsamda 3.339 türe ait 55.000’den fazla tohum örneği korunmaktadır. Korunan tohum örnekleri içerisinde Türkiye kökenli bitkilere ait yerel ve ıslah edilmiş çeşitler ile yabani ve endemik türler bulunmaktadır. Ayrıca Ankara’da bulunan Tarla Bitkileri Merkez Araştırma Enstitüsü Müdürlüğü bünyesinde Türkiye Tohum Gen Bankası da bulunmaktadır. Bu merkezde günümüzde koruma altına alınmış tohum sayısı 51 .OOO’dir.  
+ Ülkemizde Ulusal Arazi Gen Bankası oluşturulma çalışmaları 1992’de başlatılmıştır. Çalışmalar kapsamında Türkiye kökenli meyve ve bağ genetik kaynaklarının materyalleri, Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğüne bağlı farklı araştırma enstitülerinin bünyesinde bulunan arazi gen bankalarında saklanmaktadır. Toplama çalışmaları ile elde edilen meyve ve bağ genetik kaynakları, türün ekolojik isteğine göre en az iki farklı kuruluşun arazi gen bankasında korunmaktadır. Bu kapsamda arazi gen bankalarında çok sayıda materyal bulunmaktadır. Bu süreçte koordinatör kurum Ege Tarımsal Araştırma Enstitüsü Müdürlüğüdür. Biyoçeşitliliğin korunması kapsamında Türkiye’de ağaç parkı ve botanik bahçeleri de kurulmuştur. Bu sayede hem ülkemizde doğal olarak yetişebilen hem de ülke dışından gelen pek çok bitki türünün korunması mümkün olabilmektedir.  
+ Ankara’da bulunan Türkiye Millî Botanik Bahçesi, İstanbul’da bulunan Nezahat Gökyiğit Botanik Bahçesi (Görsel 2.55 a) ve Adana’da Çukurova Üniversitesi yerleşkesinde bulunan Ali Nihat Gökyiğit Botanik Bahçesi ülkemizdeki botanik bahçelerinin önemli örneklerindendir.  
+ a) Nezahat Gökyiğit Botanik Bahçesi, b)Atatürk  
+ A rbınra+ı ınru ı  
+ Ayrıca İstanbul’da bulunan ve 1982 yılında kurulan Atatürk Arboretumu’nun büyük çoğunluğunu ağaçlar oluşturmakta ve arboretumda diğer odunsu bitki örnekleri de bulunmaktadır (Görsel 2.55 b). Botanik bahçeleri ve ağaç parkları, pek çok bitki ve canlıya koruma sağlarken insanlara da gezip dinlenme ve araştırma yapma imkânı sunabilmeleri açısından önemli yerlerdir.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Biyoloji Ders Kitabı Sayfa 166**

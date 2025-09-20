@@ -1,0 +1,13 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 136
+
+Murad Han, ikinci hükümdarlığı döneminde barışçıl politikayı terk ederek Balkan fetihlerine yeniden başladı ve devletin sınırlarını genişletti (Harita 2.7). Macarlar ise Osmanlı Devleti’nin Balkanlardaki hâkimiyetine son verme konusunda hâlâ kararlıydı. Janos Hunyadi komutasındaki Macar ordusu, Sırp Despotluğu’nun topraklarına girerek burayı yakıp yıktıktan sonra Kosova’ya kadar ilerledi. Osmanlı ordusu ile Macar ordusu arasında yapılan ve üç gün süren il. Kosova Savaşı sonucunda Osmanlı Devleti büyük bir zafer kazandı (17-20 Ekim 1448).
+
+“Kosova Savaşı siyasi açıdan Macar/arın Balkanlardaki etkisinin bir ölçüde sonunu oluşturdu. Bunun en tipik sonucu, Sırplarla olan düşmanlıktır. Sırp Despotu Brankoviç ele geçirdiği Hunyadi’yi bazı önemli tavizler kopararak serbest bırakmıştı. Macarlar, gelecekte yapılacak seferlerde bir daha asla Sırp topraklarından geçmeyeceklerini, fidye olarak 100.000 altın ödeyeceklerini kabul ettiler. Hunyadi’nin oğlu Ladislas da rehin olarak gönderilecekti. Hunyadi ise esaretten kurtulduktan sonra Sırp despotunu Hıristiyanlığın büyük düşmanı olarak papaya şikâyet etmişti. Üstelik Sırbistan’a girerek yağma ve talanda bulunmuş, oğlunun kendisine teslimini bu şekilde sağlamıştı. Fakat yeni bir sefer için artık hiç taraftar bulamayacaktı. Eflak’ta da Macar nüfuzu sarsılmıştı. Varna Savaşı’yla birlikte burada kazanılan başarı, ileride Balkanlarda oluşması muhtemel yeni ittifak ve askeri yardımı engelleyici bir etki yaptı, hatta İstanbul’un fethini daha yakın hale getirdi. Ayrıca İl. Kosova zaferi, Rumeli’de Osmanlı iktidarının yeniden kök salmasına yardımcı oldu.”
+
+**Kaynak M**
+
+“Avrupalılar, İkinci Kosova Muharebesi ve zaferi sonrasında Osman/ı’yı kendi evinde yenemeyeceklerini ve Balkanlar’ı geri alamayacaklarını acı bir şekilde anladılar. Bundan sonraki siyasi ve askeri çabaları Osmanlı’nın Orta Avrupa istikametindeki ilerleyişini durdurma üzerine yoğunlaştı. Kosova Muharebesi, Osmanlı ordusu için de bir dönüm noktası oldu. Osmanlılar ilk defa tabur cengi ve ateşli el silahları gibi modern konvansiyonel taktik ve teknikleri hızlı bir şekilde düşmanlarından öğrenerek başarı ile uyguladılar. Üstelik bunları kendilerine özgü bir şekilde geleneksel süvari taktikleri ile harmanlayarakyaptılar. Her iki muharebede de sıradan bir komutanı değil, o dönemde Avrupa’daki en başarılı askeri lideri yendiler. Bu zafer sonrasında itaatsiz geleneksel askeri sınıfların ortadan kaldırılıp merkezi emir-komuta teşkilatının istisnasız uygulanması için gerekli ortam da sağlanmış oldu.”
+
+**Soru: Osmanlı Devleti için II. Kosova Savaşı’nın siyasi ve askerî önemi nedir? Açıklayınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 136**

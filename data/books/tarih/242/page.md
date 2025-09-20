@@ -1,0 +1,10 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 242
+
+Osmanlı veraset sisteminde padişahın vefatından sonra hangi şehzadenin tahta çıkacağına dair kesin bir kural yoktu. Bu konuda bağlayıcı bir hüküm getirilmemesinin nedeni, Osmanlı tahtına liyakat sahibi şehzadelerin geçmesi gerektiği düşüncesiydi. Buna göre bir padişah vefat ettiğinde hangi şehzade sancağından çıkarak başkente gelir, hazineye hâkim olur, yeniçerilerin ve saray erkanının desteğini kazanırsa taht o şehzadenin hakkı olurdu. Başkente gelen şehzade de cülus töreni sonrasında yeni padişah olarak ilan edilirdi. 1421’den itibaren tahta çıkıştaki en önemli etmen yeniçerilerin desteğiydi. Cülus törenine katılan devlet yetkilileri padişaha biat ederek onun meşruiyetini kabul etmiş olurdu (Görsel 3.14).
+
+“1481’de dönemin tarihçisi Bihişti olmuş ve //. Bayezid’in tahta çıkışım şöyle anlatmıştır: ‘[Bayezid] cennete benzeyen tahtın kalbinde yerini aldı. Soldaki ve sağdaki kumandanlar ve gökteki yıldızlar kadar çok askerler sultana biat ettiler, büyükler ve küçükler ona bağlılıklarını ve saygılarını sundular.’ Bu törenin Bayezid’in zamanından çok daha eskilere dayandığı söylenebilir. Kaynağı, yeni hükümdarın resmi veya yarı resmi bir şekilde askerlerinin ve güçlü kullarının karşısına çıkması olarak yorumlanabilir. (…) Biat töreni, başta sadrazam ve şeyhülislam olmak üzere küçük bir grup oluşturan güçlü ve nüfuzlu kişilerin tekelinde kaldı ve sarayın içindeki tahtın önünde yapıldı. Biatın anlamı da yüzyıllar geçtikçe değişti. İlk zamanlarda sadece yeni padişahı alkışlamanın, yani onu övücü söz/er söylemenin bir ifadesi olduğu ileri sürülebilecek olan biat töreni, 16. yüzyılın ortasından itibaren bir çeşit hukuki anlam kazanmaya başladı. (…)  
+ 16. yüzyılın sonlarından itibaren, biat törenine daha başka unsur/ar eklendi. Bunların başlıca amacı başkent halkının gözünde hanedan hakimiyetinin kalıcılığını ve sürekliliğini vurgulamaktı.”
+
+**Soru: Cülus törenlerinde devlet adamlarının yeni sultana biat etmesi neden zamanla daha da önem kazanmış olabilir? Kaynaktan örnek verek açıklayınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 242**

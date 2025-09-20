@@ -1,0 +1,11 @@
+## 10. Sınıf Biyoloji Ders Kitabı Cevapları Meb Yayınları Sayfa 142
+
+Gündemi” kararı kabul edilmiştir. Sürdürülebilir kalkınma amaçları genel olarak yoksulluğu sona erdirmek, eşitsizlik ve adaletsizlikle mücadele, ekonomik büyüme, enerji, sürdürülebilir üretim ve tüketim, sanayileşme ve iklim değişikliği ile ilgili konuları kapsamaktadır (Görsel 2.37).
+
+Çevre sorunlarının artması ve doğal dengenin bozulması, kalkınma planlarında çevre unsurlarının da yer almasına sebep olmuştur. Sürdürülebilir kalkınma; sosyal, ekonomik ve ekolojik olarak üç boyutta ele alınır. Sürdürülebilir kalkınmanın çevresel boyutu ekolojik sürdürülebilirlik olarak bilinir. Ekolojik sürdürülebilirlik doğal kaynakların, biyoçeşitliliğin korunması ve ekosistemlerin dengede tutulması için büyük bir öneme sahiptir. Ekolojik sürdürülebilirlik ile kaynakların aşırı kullanımının sınırlanması hedeflenmektedir. Toprak, atmosfer, su, sulak alanlar, ormanlar gibi doğal kaynakların korunması ve dengeli bir şekilde kullanılması çok önemlidir. Doğa! kaynaklar kendini yenileme hızının üzerinde kullanıldığında ekosistemdeki denge bozulur, kaynaklar tükenir ve gelecek nesillere aktarılamaz. Ekosistemlerin dengede tutulması, canlıların yaşamını sürdürebilmesi ve biyolojik çeşitliliğin korunması açısından önemlidir.  
+ Ekolojik sürdürülebilirlik ile çevre kirliliğinin önlenmesi, yenilenemez ve yenilenebilir kaynak kullanımı ile atıkların oluşturduğu kirliliğin kısıtlanması ve atıkların geri dönüşümünün artırılması sağlanır. Hava, su ve toprak kirliliği insan sağlığı ve ekosistemler üzerinde olumsuz etkiler yapar. Çevre kirliliğinin önlenmesi, temiz ve sağlıklı bir çevrenin korunması için gereklidir.  
+ Sonuç olarak ekolojik sürdürülebilirlik, ekolojik dengeyi korumayı amaçlayarak ekosistemin bozulmaması için doğanın yenilenmesine fırsat verilmesini ve gelecek kuşakların çevre hakkının da gözetilmesini amaçlamaktadır. Bu kavramın benimsenmesi ve uygulanması, daha yaşanabilir ve sürdürülebilir bir gelecek için gereklidir. Çevreyi korumak ve ekolojik sürdürülebilirliği sağlamak için ekosistemi oluşturan tüm elemanların birbirinden ayrılmaz bir bütün olduğu ve oluşabilecek zararların hepsini etkileyeceği bilinmeli, buna göre gereken önlemler alınmalıdır.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Biyoloji Ders Kitabı Sayfa 142**

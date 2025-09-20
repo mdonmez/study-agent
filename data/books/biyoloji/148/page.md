@@ -1,0 +1,17 @@
+## 10. Sınıf Biyoloji Ders Kitabı Cevapları Meb Yayınları Sayfa 148
+
+Havaya karışan kirleticilerin insanlarca solunması; kronik bronşit, nefes darlığı, üst solunum yolu enfeksiyonları gibi rahatsızlıklara neden olur. Havadan toprak, bitki, hayvan ve diğer çevresel ortamlara geçerek biriken kirleticiler içme suyu ve besin zincirine karışır. Bu sebeple vücuda giren kimyasalların birikimi ve emilimi canlı sağlığını olumsuz etkiler. Özellikle şehirlerde ısınma, trafik ve sanayiden kaynaklanan hava kirliliğinin son yıllarda artmasıyla sağlık problemlerinde de artış görülmektedir.
+
+**Ozon Tabakasının İncelmesi**
+
+Ozon, atmosferde doğal olarak üç oksijen atomunun bir araya gelmesiyle oluşan bir gazdır. Ozon, kimyasal olarak 03 şeklinde gösterilir. Atmosferdeki ozonun %90’ı, stratosferin üst kısmında; yer yüzeyinin 15-50 km’leri arasında bulunur. Bu aralıkta bulunan toplam ozonun oluşturduğu gaz tabakasına ozon tabakası denir. Ozon tabakasında, Güneş’ten gelen zararlı morötesi ışınlar (UV-B ve UV-C) tutularak bu ışınların Dünya’nın yüzeyine ulaşması önlenir. Bu yönüyle ozon tabakası, Dün- ya’daki canlılığın devamı ve insan sağlığı açısından oldukça önemlidir. Atmosfere karışan çeşitli maddeler ozon miktarının azalmasına ve ozon tabakasının incelmesine neden olur ve bu durum ozon tabakası incelmesi olarak adlandırılır. Ozon tabakasının incelmesiyle yeryüzüne ulaşan morötesi ışık miktarı artar. Bu durum, deri kanseri başta olmak üzere katarakt ve bağışıklık sistemi hastalıklarında artışa neden olabilir. İnsan faaliyetleri sonucunda atmosfere karışan ve ozon moleküllerinin parçalanmasına neden olan maddelerin başında kloroflorokarbonlar (CFC) gelir. Bu moleküller, kolaylıkla atmosferin üst katmalarına ulaştıktan sonra Güneş’ten gelen ışınlarla parçalanır ve ozon moleküllerinin oksijen moleküllerine dönüşmesine neden olan maddeler ortaya çıkar. CFC’Ierin ozon tabakasına verdiği zararın fark edilmesinin ardından 1987 yılında Montreal Protokolü ile tüm dünyada CFC kullanımı yasaklanmıştır.
+
+**Asit Yağmurları**
+
+Asit yağmurları; fosil yakıt kullanımı, yoğun trafik, volkanik ve endüstriyel faaliyetler sonucu oluşan karbonmonoksit (CO), karbondioksit (C02), kükürtdi- oksit (S02) ve azot dioksit (N02) gazlarının doğal su döngüsüne karışmasıyla oluşur.
+
+Bu gazların havadaki su buharıyla birleşerek kimyasal tepkime meydana getirmesi sonucunda nitrik asit (HN03) ve sülfürik asit (H2S04) damlaları oluşur. Bu asitleri içeren ve normal yağmur suyunun sahip olduğu 5,5-5,6’lık pH düzeyinin altında olan yağmurlara asit yağmurları denir. Atmosferdeki asit yalnızca yağmurlarla değil kar, sis, havadaki gazlar ve tanecikler yoluyla da yeryüzüne iner. Asit yağmurları; göllere, nehirlere, okyanuslara, ormanlara, yerleşim ve tarım alanlarına yağar. Bu yağışlar yer üstü ve yer altı sularını kirleterek birçok canlı türünün yok olmasına; tarım alanlarının, yerleşim birimlerinin, tarihî eserlerin ve doğal örtünün tahrip olmasına neden olur (Görsel 2.40). Yağmur sularıyla su kaynaklarına akarken toprakta bulunan ağır metallerin göllere ve akarsulara karışmasına sebep olur. Hem suyun asitliğinin hem de ağır metal yoğunluğunun artması, suda yaşayan canlılarda doğrudan zehir etkisi yapar. Besin zincirine karışarak canlı dokularında biriken ağır metaller sebebiyle insanda çeşitli sağlık sorunları ortaya çıkar.
+
+* **Cevap**: **Bu sayfada soru bulunmamaktadır.**
+
+**10. Sınıf Meb Yayınları Biyoloji Ders Kitabı Sayfa 148**

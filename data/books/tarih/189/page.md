@@ -1,0 +1,10 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 189
+
+XIII. yüzyıl başlarında Karaman’da doğmuş ve ilk eğitimini burada tamamlamıştır. Daha sonra medrese eğitimi için Şam’a gitmiş ve özellikle fıkıh alanında uzmanlaşmıştır. İslam düşüncesi konusunda İbnüla- rabi’nin görüşlerinden etkilenmiştir. Şam’daki eğitimini tamamladıktan sonra Anadolu’ya dönerek Bilecik civarına yerleşmiştir. Osmanlı Dev- leti’nin kuruluşundaki en etkili kişi- ierden biridir. Rivayete göre Osman Gazi’nin gördüğü bir rüyayı yorumlamıştır. Bu rüya anlatısıyla Osmanlı Devleti’nin kuruluşuna manevi bir yorum katılmıştır.
+
+Aşıkpaşazade, rüyayı bazı rivayetlere dayanarak aktarmıştır. Bu anlatıya göre Osman Gazi bir gece Şeyh Edebali’nin zaviyesinde kalır. Rüyasında şeyhin koynundan doğan bir ayın kendi koynuna girdiğini, aynı anda göbeğinden bir ağaç bittiğini ve bu ağacın gölgesinin dünyaya yayıldığını, ağacın altından dağlar yükseldiğini, her dağın altından da sular çıktığını görür. Ertesi gün Osman Gazi bu rüyayı Şeyh Edebali’ye anlatır. Edebali de “Hak Teâlâ sana ve nesline padişahlık vermiş, mübarek olsun. Kızım Malhun Hatun da artık senin helalindir.” der. Şeyh Edebali’nin bu yorumundan sonra Osman Gazi Malhun Hatun’la evlenir.  
+ Osman Bey, o dönemde bölgedeki Ahilerin lideri olan Şeyh Edebali’nin kızıyla evlenerek kuracağı beylik için Ahilerin de desteğini almıştır. Aşıkpaşazade Tarihi’nde Şeyh Edebali’nin bölgede iyi tanınan, saygı duyulan, ilim ve irfan sahibi, tekkesinden misafir eksik olmayan bir şahsiyet olduğu ifade edilir. Tasavvuf geleneğinden gelen Şeyh Edebali, yerleştiği Söğüt ve Bilecik çevresinde ve diğer Osmanlı şehirlerinde hem Ahilik kültürünün hem de tasavvuf düşüncesinin yerleşmesine katkıda bulunmuş, çok sayıda insan yetiştirmiştir.
+
+**Soru: Şeyh Edebali’nin Osmanlı ilim ve irfan geleneğiyle ilişkisi hakkında soru soran bir tarih öğretmeninin sorusunu ve öğrencilerin bu soruya verebilecek/eri cevapları zihninizde tasarlayınız ve bunları aşağıdaki konuşma balonlarına yazarak görseli tamamlayınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 189**

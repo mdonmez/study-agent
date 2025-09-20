@@ -1,0 +1,17 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 106
+
+**Soru: 12-14. soruları aşağıdaki harita ve metinden yararlanarak cevaplayınız.**
+
+Lise öğrencisi olan Alperen ve Emine, değişim programı çerçevesinde gittikleri Fransa’da Jolie (Juli) ve Leo’yla (Leo) tanışmış, onların getirdiği haritayı inceleyerek mensupları oldukları medeniyetlerin XI-XIII. yüzyıllardaki bilim, eğitim, kültür ve sanat anlayışları hakkında sohbet etmiştir.
+
+Türkler, XI-XIII. yüzyıllarda bilim, sanat, eğitim ve kültür alanındaki birikimlerini yanlarında taşıyarak Anadolu’nun kültürel hayatına canlılık getirdi. Hoca Ahmed Yesevi’nin öğretilerini benimseyen dervişler Anadolu’nun dört bir yanına dağıldı ve dil, din, mezhep, ırk ayrımı gözetmeksizin tüm insanlara İslam dinini ve tasavvuf düşüncesini anlattı. İnşa ettikleri cami, medrese, kervansaray, köprü gibi mimari eserlerle Anadolu’yu bayındır hâle getiren Türkler; hem İslam düşüncesinin hem de içine girdikleri kültürel çevrenin etkisiyle çinicilik, oymacılık, do- 1 kumacılık, cam ve metal işlemeciliği, minyatür gibi sanatlarda özgün eserler ortaya koydu.
+
+Mevlana, Yunus Emre, Hacı Bektaş Veli, İbnülarabi gibi mutasavvıflar, çağları ve coğrafyaları aşan eserleriyle insanlık mirasına büyük katkılarda bulundu. Bu mutasavvıflar, eserlerinde vurguladıkları sevgi, saygı, şefkat, merhamet gibi evrensel değerler aracılığıyla barış ve uzlaşmanın ne kadar önemli olduğunu tüm dünyaya anlattı. Onların yaşadığı yüzyıllarda Avrupa’da ilk üniversiteler kurulmuş olmakla beraber bilim, eğitim, kültür ve sanat alanlarında asıl belirleyici güç kiliseydi. Kilisenin ve skolastik düşüncenin etkisi, Orta Çağ Avrupası’nda hayatın tüm alanlarını kuşatmıştı.
+
+Orta Çağ Avrupası’nda yüksek öğretim faaliyetleri, katedral ve manastır okullarında din adamları tarafından yürütülürdü. Skolastik düşünce doğrultusunda şekillenen bu eğitim anlayışında kilisenin büyük bir etkisi vardı. XI. yüzyılda ise Avrupalıların bilim ve eğitim anlayışlarında bazı önemli değişimler yaşandı. Bu değişimde Avrupalıların İslam dünyasındaki bilimsel çalışmaları ve eğitim kurumlarını takip etmeye başlaması çok etkili oldu. Avrupa’daki ilk üniversiteler bu dönemde kuruldu. Ancak XIII. yüzyılda bilginin tek kaynağının deney ve deneyim olduğunu savunan bilim insanları, Katolik Kilisesinin öğretileriyle ters düştükleri gerekçesiyle kısıtlandı ve çeşitli baskılara maruz kaldı.
+
+Türk-İslam medeniyetinde bilim ve eğitime büyük önem verildi. XM-XMI. yüzyıllarda ilki 1O66’da açılan Nizamiye Medreseleri örnek alınarak Anadolu’da birçok medrese kuruldu. Eğitimde fırsat eşitliğinin en iyi örneklerinden biri olan bu medreselerde dinî ilimlerin yanı sıra matematik, astronomi, tıp, felsefe gibi pozitif bilimlerle ilgili de çalışmalar yapıldı. Bu çalışmalar dönemin hükümdarları tarafından desteklendi. Kaşgarlı Mahmud Türkçenin korunması ve gelişmesi için yazdığı Divânü Lugâti’t-Türk’le; Omer Hayyam geometri, matematik ve astronomi alanındaki çalışmalarla; Cezeri kendi tasarladığı mekanik araçlarla ve İbni Bibi yazdığı Selçuklu tarihiyle insanlığın ortak mirasına katkıda bulundu.
+
+* **Cevap**: **Bu etkinliğin cevabı diğer sayfadadır. (Bkz. sayfa 107)**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 106**

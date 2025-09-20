@@ -1,0 +1,10 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 220
+
+İspanyol hükümdarlar tarafından Gırnata Müslüman devletinin istilasına girişilmesi oradaki Müslümanların İl. Ba- yezid’den yardım istemelerine neden olmuş ve Bayezid Kemal Reis idaresinde bir donanmayı İspanyollara karşı Batı Akdenize göndermiştir. 1492de İspanyolların sürdüğü yüz bine yakın İspanyol Yahudisi Sultan’ın izniyle Osmanlı ülkesine kabul edilmiş, İstanbul, Selanik ve bazı Rumeli şehirlerine yerleştirilmiştir.  
+ Osmanlıların İslam âleminin hakiki koruyucusu rolünü ortaya koyan olaylarından biri de İspanyol hükümdarları tarafından sıkıştırılan Endülüs Müslüman devletinin 1482’de elçi göndererek, İl. Bayezid’den yardım istemeleridir. Cem korkusu sebebi ile Osmanlı hükumeti uzun zaman yalnız sempati gösterisinde bulundu. Gırnata Müslüman devleti, İspanyol boyunduruğu altına düşüp (1492) kuzey Afrika İslam memleketleri bir istila tehlikesi altına girince, Doğu Akdeniz’ de Hıristiyan korsanlarına karşı faaliyette bulunan Türk korsanları faaliyetlerini Batı Akdeniz’e naklettiler. Bu korsanlardan Kemal Reis 1494 tarihinde resmen Osmanlı Donanma hizmetine alındı. Onun getirdiği yeniliklerle Osmanlı donanması ilerde görülen büyük başarılarının temelini atmış oldu. Donanmaya özel bir ilgi gösteren İl. Bayezid’in en önemli başarıları arasında, çağdaş tarihçi Kemal Paşazadenin işaret ettiği gibi, Osmanlı devletini hâkim bir Deniz Devleti(sea power) durumuna getirmiş olmasıdır”
+
+**Soru: Osmanlı Devleti, Endülüs’teki Müslümanlarla birlikte Yahudilere de yardım ederken hangi değeri gözetmiş olabilir? Gerekçeleriyle açıklayınız.**
+
+**Soru: Çaldıran Savaşı, Mısır Seferi ve Osmanlı Devleti’nin Afrika’daki faaliyetleri ile ilgili verilenlerden yararlanarak soruyu cevaplayınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 220**

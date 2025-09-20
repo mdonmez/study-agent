@@ -1,0 +1,14 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 152
+
+Kapıkulu ocaklarının yaya sınıfından olan humbaracılar; havan topu, el bombası, patlayıcı ve yanıcı madde üretir ve bunları savaş meydanlarında kullanırdı. Cebeciler, yeniçeri askerlerinin silahlarını ve savaş malzemelerini imal eder, bakımını yapar ve muhafaza ederdi. Lağımcılar kuşatma harekâtlarında siper kazar ve düşman istihkâmlarının altına tünel açardı. Topçular top döker, top mermisi yapar ve savaşlarda top atardı. Top arabacıları ise savaş meydanlarına deve, katır ve beygirierle bu topları taşırdı.  
+ Kapıkulu süvarileri -diğer ismiyle atlı bölük halkı- bizzat padişaha bağlı atlı kuvvetlerdi. 1. Murad Hüdavendi- gâr Dönemi’nde Timurtaş Paşa’nın tavsiyesiyle sipahi ve silahtar adlı iki bölük olarak kurulmuş, daha sonra bu bölüklere sağ ve sol ulufeciler ile sağ ve sol garipler eklenmişti. Sipahiler ve silahtarlar savaş esnasında padişahın silahlarını ve çadırını, ulufeciler saltanat sancaklarını, garipler ise ordu ağırlıklarını ve hazineyi korurdu. Kapıkulu süvarileri yeniçerilerden daha fazla maaş alır ve daha itibarlı bir konumda bulunurdu. Ancak yeniçerilerin sayıca fazla olması, onların etki gücünü artıran önemli bir faktördü.  
+ Osmanlı askerî teşkilatı; Türkiye Selçuklu, İlhanlı ve Memlûk ordularıyla benzer özelliklere sahiptir. XV. yüzyıl ortalarında Osmanlı ordusundaki toplam asker sayısının yüz bin civarında olduğu; bunların yaklaşık yirmi bininin kapıkulu askerlerinden, altmış binden fazlasının ise tımarlı sipahi ve cebelülerden meydana geldiği düşünülmektedir.
+
+**Kaynak J**
+
+“Bertrandon de La Broquiere, 7432 yılında Venedik’ten bir gemi ile Akdeniz’e açılarak Yafaya çıkar, Kudüs’e, buradan da çevredeki kutsal yerlere gider. Fakat Hristiyanlığın kutsal yerlerine ziyaret görüntüsündeki hac seyahatinin devamı, tamamen diplomatik bir mahiyet alır. (…) Türklerin Avrupanın bütün hristiyanlarını korku içinde durdurmalarının sebebini de araştırır. (…)  
+ Hristiyanlar ne kuvvette bir ordu ile saldıracak olurlarsa olsunlar, Türkler kısa zamanda toplanır ve iki-üç günde karşı çıkarlar; ve o kadar sessiz hareket ederler ki Hristiyanların yüz askeri Türklerin on bin kişilik ordusundan daha fazla gürültü yaparlar. Türkler sadece bir kös vururlar savaşa gidecek olanlar ve katılanlar alayın başına geçerler. Atları da bu düzene uyar. Silahları hafiftir, geceleri, üç günlük yol alırlar. Uzun süre koşan atları tercih ederler. Ok, tirkeş, kılıç ve kısa saplı gürzleri vardır. Bu çok tehlikeli bir silâhtır. Beylerine çok bağlıdırlar. Bu yüzden de acıklı bir gerçek ki Fransa’dan daha geniş bir araziyi fethetmişlerdir.”
+
+**Soru: Kaynak J’ye göre Osmanlı ordusunun güçlü olmasını sağlayan unsurlar nelerdir? Açıklayınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 152**

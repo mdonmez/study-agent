@@ -1,0 +1,16 @@
+## 10. Sınıf Tarih Ders Kitabı Cevapları Meb Yayınları Sayfa 160
+
+Osmanlı Devleti’nde iskân politikası uygulanırken merkezî otoriteyi güçlendirmeye yönelik bazı önlemler alınmıştır. Özellikle savaş yoluyla Osmanlı’ya tabi olan Anadolu beyliklerinin ileri gelenleri ve halkları -Rumeli başta olmak üzere- farklı belde ve bölgelere iskân edilmiş ve tımar arazisi verilen bu kimselerin devlete bağlanması sağlanmıştır. Aynı şekilde Balkanlarda fethedilen ülkelerin hükümdarları da Anadolu’ya gönderilerek iç güvenlik kontrol altına alınmıştır. Savaş yoluyla teslim alınan şehirlerin halkı başka bölgelere gönderilmiş, savaş yapılmadan teslim alınan şehirlerde yaşayanlara ise yerlerinde kalma hakkı tanınmıştır. Fethedilen topraklarda ayaklanma ihtimali yüksek görülen topluluklar Türk nüfusun yoğun olduğu bölgelere gönderilmiştir. Kendi aralarında veya yerleşik gruplarla anlaşmazlık yaşayan cemaat ve aşiretler, suç işleyen kişi ve zümreler de zorunlu iskâna tabi tutulmuştur.  
+ Rumeli’de yapılan iskânlarda derbent teşkilatı da önemli roller üstlenmiştir. Derbentler; tehlikeli güzergâhlarda, özellikle dağlık alanlardaki geçit ve boğazlarda halkın can, mal ve namus güvenliğini sağlamak için inşa edilen küçük kalelerdir. Bu kalelerin etrafına yapılan dinî, ticari ve sosyal mekânlar çoğaldıkça derbentler birer kasaba merkezine dönüşmüştür.
+
+**Kaynak Ç**
+
+“Osmanhlar, yeni fethedilen bölgelerin güvenliğini sağlamak amacıyla iyi hazırlanmış bir iskan ve toplu sürgün yöntemi kullanmışlardır. Başıboş göçebeler, ya da bir köyün ve kasabanın sorunlu halkı, imparatorluğun uzak bir bölgesine kaydırılırdı. Osmanlı Devleti fethedilen topraklara Türk nüfusunun yerleştirilmesine de büyük önem vermiştir. (…) Fetihlerin devam ettiği ilk yıllarda Osmanlılar, Anadolu’nun her tarafından akın akın kendi topraklarına gelen Müslüman Türk halkının Balkanlar’a gönüllü göçünü sürekli teşvik etmiştir. Trakya ve Meriç Vadisindeki yoğun Türk iskanı ancak kendiliğinden gelen bir göç ile açıklanabilir. (…) Askeri ve mali şartlar da, bu iskan politikasını zorunlu kılıyordu. (…) Anadolu’dan gelen Türkler genellikle yeni topraklarında ayrı köyler kurmuşlar yerli halka karışmamışlardır. (…) Türklerin göçü ile hatırı sayılır bir şekilde genişleyen Gelibolu, Edirne, Üsküp, Tırhala, Serez gibi şehirlerde bile Hristiyanlar kendi mahallelerinde toplanmışlardır. (…) Ayrıca Balkanlarda Teselyadaki Yenişehir gibi tamamen Türk nüfuslu şehirler de kurulmuştur.”
+
+**Kaynak E**
+
+“I. Bayezıd zamanında Saruhan ilinde oturan ve Menemen Ovası’nda kışlayan göçebeler, o bölgede uygulanan tuz yasağına aykırı hareket etmişler, bunun üzerine 1. Bayezıd göçerlerin hepsinin Filibe yöresine yerleştirilmesi için sürgün emri vermiştir. Filibe civarındaki halkın büyük bir kısmı ve bilhassa Saruhanbeylü denilen kasaba sakinleri bu yörüklerin soyundan türemiştir.”
+
+**Soru: Osmanlı Devletinin iskân ve güvenlik politikaları arasında nasıl bir ilişki vardır? Açıklayınız.**
+
+**10. Sınıf Meb Yayınları Tarih Ders Kitabı Sayfa 160**
