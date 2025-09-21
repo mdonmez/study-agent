@@ -1,5 +1,5 @@
 {
-  "monday": [
+  "1": [
     "Coğrafya",
     "Coğrafya",
     "Matematik",
@@ -9,7 +9,7 @@
     "İngilizce",
     "İngilizce"
   ],
-  "tuesday": [
+  "2": [
     "Fizik",
     "Fizik",
     "Kimya",
@@ -19,7 +19,7 @@
     "Almanca / Bilgisayar",
     "Almanca / Bilgisayar"
   ],
-  "wednesday": [
+  "3": [
     "Edebiyat",
     "Edebiyat",
     "Matematik",
@@ -29,7 +29,7 @@
     "Biyoloji",
     "Peyg. Hayatı"
   ],
-  "thursday": [
+  "4": [
     "Beden",
     "Beden",
     "Fizik",
@@ -39,7 +39,7 @@
     "Müzik / Resim",
     "Müzik / Resim"
   ],
-  "friday": [
+  "5": [
     "Edebiyat",
     "Edebiyat",
     "Tarih",

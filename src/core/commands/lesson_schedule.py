@@ -21,17 +21,11 @@ class LessonSchedule:
             self.schedule_data = response.json()
 
     async def get_schedule(self, date: datetime) -> list[str]:
-        weekday_map = {
-            0: "monday",
-            1: "tuesday",
-            2: "wednesday",
-            3: "thursday",
-            4: "friday",
-            5: "saturday",
-            6: "sunday",
-        }
-        day_name = weekday_map.get(date.weekday())
-        return self.schedule_data.get(day_name, [])
+        day_num = date.isoweekday()
+        if day_num <= 5:
+            return self.schedule_data.get(str(day_num), [])
+        else:
+            return []
 
 
 if __name__ == "__main__":
