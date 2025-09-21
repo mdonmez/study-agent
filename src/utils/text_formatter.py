@@ -2,19 +2,30 @@ import re
 
 
 def format_text(text: str) -> str:
+    def repl(m):
+        g = m.group
+        if g(1):
+            return "- <b>Cevap</b>:"
+        if g(0).startswith("!"):
+            return "<b><i>Sorunun cevabı üstteki fotoğraftadır.</i></b>"
+        if g(2):
+            return f"<b><i>{g(2)}</i></b>"
+        if g(3):
+            return f"<b>{g(3)}</b>"
+        if g(4):
+            return f"<i>{g(4)}</i>"
+        return ""
+
     pattern = re.compile(
         r"^## .*?\n\n"
-        r"|(\* \*\*Cevap\*\*:)"
+        r"|(\* \*\*Cevap\*\*:?)"
         r"|!\[.*?\]\(.*?\)(?:\s*!\[.*?\]\(.*?\))*"
-        r"|\n\*\*10\. Sınıf .*? Sayfa \d+\*\*\n?",
+        r"|\n\*\*10\. Sınıf .*? Sayfa \d+\*\*\n?"
+        r"|\*\*\*(.+?)\*\*\*|___(.+?)___"
+        r"|\*\*(.+?)\*\*|__(.+?)__"
+        r"|(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)"
+        r"|(?<!_)_(?!_)(.+?)(?<!_)_(?!_)",
         flags=re.MULTILINE | re.DOTALL,
     )
-
-    def repl(m):
-        if m.group(1):
-            return "- **Cevap**:"
-        if m.group(0).startswith("!"):
-            return "***Sorunun cevabı üstteki fotoğraftadır.***"
-        return ""
 
     return pattern.sub(repl, text).strip()
