@@ -1,70 +1,43 @@
 import httpx
-import os
-from dotenv import load_dotenv
-
-# Load environment variables
-load_dotenv()
+from datetime import datetime, timedelta
 
 
 class LessonSchedule:
-    def __init__(self):
-        self.base_url = "https://raw.githubusercontent.com/mdonmez/study-agent/refs/heads/master/data/schedules"
-        self.api_base_url = (
-            "https://api.github.com/repos/mdonmez/study-agent/contents/data/schedules"
+    def __init__(self, class_id: str):
+        self.class_id = class_id
+        self.BASE_URL = "https://raw.githubusercontent.com/mdonmez/study-agent/refs/heads/master/data/schedules"
+        url = f"{self.BASE_URL}/{self.class_id}.json"
+        response = httpx.get(
+            url,
+            headers={
+                "User-Agent": "study-agent/1.0",
+            },
+            timeout=10,
         )
-        self.github_token = os.getenv("GITHUB_API_KEY")
-
-    def _get_api_headers(self) -> dict[str, str]:
-        """Get headers for GitHub API requests."""
-        headers = {
-            "Accept": "application/vnd.github.v3+json",
-            "User-Agent": "study-agent/1.0",
-        }
-        if self.github_token:
-            headers["Authorization"] = f"token {self.github_token}"
-        return headers
-
-    @classmethod
-    def get_available_classes(cls) -> list[str]:
-        """Fetch available classes from GitHub API."""
-        api_url = (
-            "https://api.github.com/repos/mdonmez/study-agent/contents/data/schedules"
-        )
-
-        temp_instance = cls()
-        headers = temp_instance._get_api_headers()
-
-        response = httpx.get(api_url, headers=headers, timeout=10)
         response.raise_for_status()
-        data = response.json()
+        self.schedule_data = response.json()
 
-        classes = []
-        for item in data:
-            if item["type"] == "file" and item["name"].endswith(".json"):
-                class_name = item["name"][:-5]
-                classes.append(class_name)
-
-        return sorted(classes)
-
-    def get_schedule(self, class_id: str) -> dict[str, list[str]]:
-        """Fetch schedule data from GitHub for a specific class."""
-        url = f"{self.base_url}/{class_id}.json"
-        headers = self._get_api_headers()
-
-        try:
-            response = httpx.get(url, headers=headers, timeout=10)
-            response.raise_for_status()
-            return response.json()
-        except Exception as e:
-            raise IOError(f"Error fetching schedule data for {class_id}: {e}")
+    def get_schedule(self, date: datetime) -> list[str]:
+        weekday_map = {
+            0: "monday",
+            1: "tuesday",
+            2: "wednesday",
+            3: "thursday",
+            4: "friday",
+            5: "saturday",
+            6: "sunday",
+        }
+        day_name = weekday_map.get(date.weekday())
+        return self.schedule_data.get(day_name, [])
 
 
 if __name__ == "__main__":
-    manager = LessonSchedule()
+    manager = LessonSchedule("10A")
+    today = datetime.now()
+    print(manager.get_schedule(today))
 
-    try:
-        print(f"10A schedule: {manager.get_schedule('10A')}")
-        print(f"10B schedule: {manager.get_schedule('10B')}")
-
-    except Exception as e:
-        print(f"Error: {e}")
+    days_ahead = 0 - today.weekday()
+    if days_ahead <= 0:
+        days_ahead += 7
+    next_monday = today + timedelta(days_ahead)
+    print(manager.get_schedule(next_monday))
